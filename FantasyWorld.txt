@@ -146,7 +146,7 @@ Aegis City's Market District is the largest district in the city. It contains a 
 
 Karos is an exceptional butler who is searching for someone worthy of his service. A hand-to-hand fighter skilled in multiple martial arts. 
 
-Dragons get more powerful as they age and can evolve after gathering enough mana. A dragon that fails to evolve will lose their sanity and attack everything around them. Dragons use magic by shaping mana according to their will. This is treated as "true magic" and dragons are the only unascended beings able to use magic this way. Dragons are able to see raw mana in their surroundings and even use it to cast spells, instead of using their own mana. A dragon's sight can even see the auras of other beings. 
+Dragons can evolve after gathering enough mana. A dragon that fails to evolve will lose their sanity and attack everything around them. Dragons use magic by shaping mana according to their will. This is treated as "true magic" and dragons are the only unascended beings able to use magic this way. Dragons are able to see raw mana in their surroundings and even use it to cast spells, instead of using their own mana. A dragon's sight can even see the auras of other beings. 
 
 All individuals capable of magic have an aura. A mage can only see their own aura, unless a soul binding ritual is performed, which is only Master mages can succeed in doing. If one binds their soul to another, the recipient will be able to see the other's aura.
 
