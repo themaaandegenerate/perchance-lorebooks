@@ -1,2041 +1,461 @@
-Adolion is a large fantasy world.
+Adolion is a large fantasy world. It is comprised of a large number of races such as elves, demons, humans, dwarves, goblins, and more. It has medieval technology, magic, and monsters. 
 
-Adolion is comprised of a large number of races such as elves, demons, humans, dwarves, goblins, and more.
+Aegis City is the capital city of the Darran Kingdom. It is the largest city on the continent of Sebela. Its ruler is King Davolan. It is otherwise known as the Holy City. 
 
-Adolion has medieval technology, magic, and monsters.
+The Adventurer's Guild is an organization that manages the many adventurers in Adolion. They are a neutral party and manage the acquisition of quests, adventurer registration, and rewards. The Adventurer's Guild is necessary to keep the world safe for commoners. The Adventurer's Guild consists of two areas, the Guild Reception and the Tavern. 
 
-Aegis City is the capital city of the Darran Kingdom.
+The Holy Church is dedicated to the worship of Boher, the God of Life. The Holy Church is in a constant war against any necromancers or undead. Boher's symbol is a golden sun. Boher's followers seek out and destroy demons. 
 
-Aegis City is the largest city on the continent of Sebela.
-
-The ruler of Aegis City is King Davolan.
-
-Aegis City is otherwise known as the Holy City.
-
-The Adventurer's Guild is an organization that manages the many adventurers in Adolion.
-
-The Adventurer's Guild is a neutral party.
-
-The Adventurer's Guild manages the acquisition of quests, adventurer registration, and rewards.
-
-The Adventurer's Guild is necessary to keep the world safe for commoners.
-
-The Adventurer's Guild consists of two areas, the Guild Reception and the Tavern.
-
-The Holy Church is dedicated to the worship of Boher, the God of Life.
-
-The Holy Church is in a constant war against any necromancers or undead.
-
-Boher's symbol is a golden sun.
-
-Boher's followers seek out and destroy demons.
-
-Adventurers are ranked by the Adventurer's Guild to determine what kind of quests they can handle.
-
-An adventurer is ranked from the lowest rank of F to the highest rank of S, which is only achievable after completing 100 A-ranked quests.
-
-Special ranks can be awarded to adventurers who perform extraordinary feats to overcome calamitous entities or stop a city-wide threat.
+Adventurers are ranked by the Adventurer's Guild to determine what kind of quests they can handle. An adventurer is ranked from the lowest rank of F to the highest rank of S, which is only achievable after completing 100 A-ranked quests. Special ranks can be awarded to adventurers who perform extraordinary feats to overcome calamitous entities or stop a city-wide threat.
 
 The Raven Sisters, Morrigan and Cornelia Briarwood, were recently awarded with an X rank by the Adventurer's Guild for pacifying a crystal dragon that threatened to attack Aegis City and the surrounding lands.
 
-The Delarise family is a noble family in Aegis City.
+The Delarise family is a noble family in Aegis City. First creators of Airships. Known for its weapon and magical item production. Strongest noble family in Aegis City. 
 
-The Delarise family were the first creators of Airships.
+Ashleigh Delarise is the Eldest Daughter of the Delarise house. She was engaged to the Prince but the Prince annulled the engagement. Long silver hair. Heterochromia (left eye: purple, right eye: hazel). 
 
-The Delarise family is known for its weapon and magical item production.
+Ashton Delarise is the eldest Son of the Delarise house. Was engaged to Princess Davolan before she annulled it. Short silver hair. Heterochromia (left eye: blue, right eye: silver). He is the heir to the Delarise household. 
 
-The Delarise family is the strongest noble family in Aegis City.
+Elves are a reclusive race who have only recently begun to integrate into human societies. Tall, lithe, beautiful, and able to live hundreds of years. 
 
-Ashleigh Delarise is the Eldest Daughter of the Delarise house.
+Dwarves are stout folk, usually only about 4 feet tall. They tend to live in mountainous areas and are great crafters. Dwarves famously get along with most races and make the most loyal of friends. Dwarves obsess over their honor. 
 
-Ashleigh Delarise was engaged to the Prince but the Prince annulled the engagement.
+Humans have the shortest lifespan of Adolions races. However, they are often ambitious and diverse, able to accomplish in a short amount of time what it takes other races centuries to complete. 
 
-Ashleigh Delarise has long silver hair.
+Demons are from the infernal planes. They vary in type. With some preferring to trick or deceive mortals into damnation, while others prefer to carve a bloody path of violence. To the mortal races, all demons are evil. 
 
-Ashleigh Delarise has heterochromia (left eye: purple, right eye: hazel).
+Nagora Jungle - or the Vile Jungle - is a large jungle that covers 1/4th of Sebela. Extremely dangerous creatures wander there, mutated by the regions close proximity to the negative energy plane. 
 
-Ashton Delarise is the eldest Son of the Delarise house.
+Sebela is the largest continent on Adolion. It features a variety of biomes. It's most notable areas are: Aegis City, the Vile Jungle, the Mountains of Shadow, and Gragow. 
 
-Ashton Delarise was engaged to Princess Davolan before she annulled it.
+Quests are issued by the Adventurer's Guild after they receive a request from someone in need of help. Quests are easier the lower the rank and more difficult the higher the rank. Quests can take place anywhere in Sebela. Quest Location, Quest Target. 
 
-Ashton Delarise has short silver hair.
+Gragow was a large human city. Became a Lost Zone overnight. Eldritch creatures roam the streets and everyone that was inside is presumed dead. Gragow has some of the most advanced technology in Adolion lost within its walls. 
 
-Ashton Delarise has heterochromia (left eye: blue, right eye: silver).
+Lost Zones are areas in Adolion that the Adventurer's Guild has decided are too dangerous to investigate. Only foolhardy adventurers and treasure hunters dare try to brave these areas. 
 
-Ashton Delarise is the heir to the Delarise household.
+Short, green creatures with the intelligence of children. Goblins speak undercommon and are vicious, cruel creatures. They often kill for sport. Goblins can learn to cast spells but often prefer to attack in packs to overwhelm their enemies. 
 
-Elves are a reclusive race who have only recently begun to integrate into human societies.
+Orcs are a large race of muscular creatures with gray skin and red eyes. They often are seen as barbaric, but in orc society, might makes right. 
 
-Elves are tall, lithe, and beautiful.
+Ellie is a guild receptionist for the Adventurer's Guild. She's regarded as a "Jewel" of the guild, has her own fanclub who wants to keep her single. Elven woman with green hair and blue eyes. 
 
-Elves are able to live hundreds of years.
+Demon Boars are large creatures that resemble boars, but are highly aggressive with glowing red eyes and massive tusks. A Demon Boar will often gore its enemies with its massive tusks or breath fire. A Demon Boar is roughly the size of a human male. 
 
-Dwarves are stout folk, usually only about 4 feet tall.
+A list of village names: Brittleforest, Cliffwich, Thornhollow, Ebonshield, Pinemere, Fairhorn, Dryscar, Grimacre, Silverfall, Whitvein, Darkpass. 
 
-Dwarves tend to live in mountainous areas.
+A list of Questgiver names: Reverend Johanson, Farmer Jacobs, Holy Knight Taran, Monk Kals, Smithy Eugan, Alchemist Veric, Shopkeeper Eissen, Lady Erika, Lord Tarin, Sergeant Jabari. 
 
-Dwarves are great crafters.
+Drow are a race of dark-skinned elves who reside in an area called the Darklands, a massive cavernous region under Sebela. Drow live in a matriarchal society and revere spiders. Many Drow are slavers and view other races as only fit to serve their sadistic needs. The largest drow settlement is Kalzobarn located in the Darklands. 
 
-Dwarves famously get along with most races.
+The Darklands is a massive cavernous region underneath Sebela that houses dangerous monsters and creatures that have grown to fear or shun the sun. The only natural source of light in the Darklands are eerie glowing mushrooms. 
 
-Dwarves make the most loyal of friends.
+Arryn is a beautiful Elf who wields a lance and wears plate armor. She tends to speak in short, choppy phrases. Friends with Dalan. 
 
-Dwarves obsess over their honor.
+Belle is a Barbarian who wields a massive stone greataxe called Cleaver. Very aggressive, dominant, and prone to fighting for fun or to vent her anger. 
 
-Humans have the shortest lifespan of Adolion's races.
+Clan Nabba is a wandering, nomadic tribe that lives in the Mountains of Shadow. A patriarchal clan that believes women serve best in household roles. Belle is originally from this clan. 
 
-Humans are often ambitious and diverse.
+Fiana is the barmaid for the Adventurer's Guild. Happy, sociable, flirty. An excellent cook and mixologist. Best friends with Ellie. 
 
-Humans are able to accomplish in a short amount of time what it takes other races centuries to complete.
+Delilah Thorne is a blacksmith and the proprietor of The Forgery. She has brown eyes, curly black hair that she usually keeps in a bun, and sepia skin that can get covered in forge dust after work. Delilah recently inherited the shop from her father Dugan Thorne, after he was forced to retire after an injury. She first met Morrigan Briarwood when the latter entered the shop to pass some time. Despite Delilah looking disheveled from working in the forge, Morrigan was smitten and ended up buying a sword she didn't need and horseshoes for a horse she didn't have. 
 
-Demons are from the infernal planes.
+Morrigan Briarwood's goofy first impression helped Delilah Thorne overcome her worries about inheriting The Forgery. This moment caused Delilah to regularly think about Morrigan and eventually discovered that Morrigan is one of the Raven Sisters. Months later, when the Raven Sisters were reported to be back, she immediately looked for Morrigan and, instead of simply thanking her like she planned, Delilah accidentally confessed her feelings. 
 
-Demons vary in type.
+The Forgery is smithy run by Delilah Thorne that also employs Eugan. Their selection is mostly marketed for civilians, but Delilah has a passion and eye for weapon smithing, so a small corner of this unassuming shop is decorated with some of the highest quality weapons in the country. 
 
-Some demons prefer to trick or deceive mortals into damnation.
+Morrigan Briarwood is the oldest Briarwood sibling at 32 years old, has shoulder-length red hair, green eyes, and a tall, muscular build that contrasts with her reputation as a mage. As one of the Raven Sisters, she is known to be exceedingly friendly and fiercely protective. 3 months ago, she started dating Delilah Thorne, but had not revealed this to anyone, embarrassed with herself for how hard she always pushed that she was too busy for love. She doesn't know that Cornelia and Delilah have already met for tea twice. Morrigan has the title of Master from the Mage’s College, being their most recent S-Class graduate. She is adept in every school of magic but prefers summoning magic.
 
-Other demons prefer to carve a bloody path of violence.
+Cornelia Briarwood is the younger of the Raven Sisters at 29. She has long black hair, green eyes, and is a much shorter and less muscular than her sister. She enjoys quiet places away from other people where she can catch up on her reading or make progress on her latest arcane project. Unless you are of the few she has opened up to, interrupting her moments of peace will reveal how vindictive she can be. She is very affectionate towards her loved ones, but can sometimes struggle to express it without feeling embarrassed. Even in comparison to Morrigan, Cornelia is an unprecedented genius. She does not have an official Mage title because she declined to attend the Mage's College, not liking the idea of being around so many people. Instead, she learned everything about magic through self-study. In combat, Cornelia typically uses enhancement magic to buff Bitty as well as Morrigan's other summons, then attacks by manipulating shadows. 
 
-To the mortal races, all demons are evil.
+Bitty is Morrigan's magic raven familiar and the mascot for the Raven Sisters. Morrigan is able to telepathically communicate with Bitty and see through its eyes, an ability Morrigan frequently uses for scouting and occasionally for admiring Delilah when they are apart. Despite Bitty's absolute loyalty to Morrigan on the battlefield, it has a mischievous personality that won't hesitate to tattle to Cornelia if Morrigan took a sip from her good wine.
 
-Nagora Jungle - or the Vile Jungle - is a large jungle that covers 1/4th of Sebela.
+Peter Briarwood is the unknown younger brother of the Raven Sisters. Morrigan and Cornelia avoid talking about him so that he can live outside of the public eye. To his sisters, Peter will always be their baby brother and they would do anything for him. The Raven Sisters affectionately refer to Peter Briarwood as their 'little sparrow' so that his name is never revealed to others. The nickname Little Sparrow came from how Peter would often play with Bitty as a kid. 
 
-Nagora Jungle has extremely dangerous creatures that wander there.
+Peter Briarwood interacts with magic in a fundamentally unique way that isn't understood by those who know this secret. The closest comparison to his ability is draconic magic. Instead of using runes or incantations to cast spells, Peter can see and command the mana to take form, but this requires inhuman levels of focus to keep under control. From ages 10 to 20, Peter trained under Archmage Dacaryn to learn to control his magical abilities. Until he was 14, Peter would regularly get severely injured and even killed by his own ability, a secret he kept from his sisters for a long time. He lives only because Archmage Dacaryn developed a time reversal spell just so she could protect Peter from his power. Now, at age 20, Peter is to the point that magic is now as natural and effortless as breathing.
 
-The creatures in Nagora Jungle are mutated by the region's close proximity to the negative energy plane.
+A Starfall is a rare celestial event that occurs when divine mana breaches the mortal realm. If a powerful mage is struck by this force survives the process of absorbing its transcendent energy, they will become Star-Touched. Just witnessing a Starfall alone is a once-in-a-lifetime experience, so someone becoming Star-Touched is treated as an impossibility.
 
-Sebela is the largest continent on Adolion.
+If someone becomes Star-Touched, they will have extraordinarily high levels of mana, enhanced physical abilities, gain the capacity to cast divine magic (though there are no known divine spells for a Star-Touched to learn). The only reason Ceres Vaelis, the first Star-Touched in recorded history, is alive is because her parents sacrificed themselves to reforge her body with the divine magic.
 
-Sebela features a variety of biomes.
+Dion Vaelis is the deceased father of Ceres Vaelis. He was an muscular, average height human with short brown hair, golden eyes, and a strong personal sense of justice. He was a mercenary who mainly earned his keep by helping villages deal with nearby bandits and monsters. His skill with a sword was more suited for a blademaster than a simple mercenary. When asked why he wouldn't pledge his service to the kingdom, he said that prefers knowing when he's helping someone over blindly following orders. During a visit to Aegis City, Dion caught the attention of archmage Alina Kelnan. She found the way he unabashedly displayed pure, childlike joy in front of strangers to be endearing and asked him to be hers. They eventually married and she took his last name, becoming Alina Vaelis.
 
-Sebela's most notable areas are: Aegis City, the Vile Jungle, the Mountains of Shadow, and Gragow.
+Alina Vaelis (Alina Kelnan before she got married) is the deceased mother of Ceres Vaelis. Alina was a short elven woman with snow white hair, red eyes, and a very relaxed, playful demeanor. She was part of the Kelnan tribe, but left because she wanted to see more of the world, when the tribe practiced isolationism. Despite this difference in belief, she was still viewed as a beloved member of the Kelnan clan. She was an archmage who, despite her amazing abilities, cared little for magic compared to other mages. She married Dion Vaelis, a human mercenary, and traveled the fighter with him, rediscovering her love of magic through her love of people. 
 
-Quests are issued by the Adventurer's Guild after they receive a request from someone in need of help.
+Alina was 3 months pregnant with her daughter Ceres when she and Dion were struck by a Starfall. Alina could only save herself, Dion, or Ceres, so she and Dion agreed to do everything to save their unborn daughter. Alina reforged Ceres' body with the divine mana while Dion shielded them from the mana storm long enough for the process to succeed.
 
-Quests are easier the lower the rank.
+Beastfolk refers to people who have a mixture of a beast race with another race, most commonly human. Beastfolk features usually manifest as things like animal ears, tails, fangs, claws, and other animal-like traits. 
 
-Quests are more difficult the higher the rank.
+Liora is secretly a demon succubus but appears as an ordinary human woman to everyone but her target. Liora is fiercely possessive of her target and will stalk them obsessively. Liora is also Akari's sister. 
 
-Quests can take place anywhere in Sebela.
+The Inqusition are Hunters of Demons, expected to root out heresy no matter where it occurs. Its members are experts killing and/or exorcising demons. They are backed by the Church of Boher. 
 
-Quest Location is specified for each quest.
+Quest Targets for quests. Targets are either a group of enemies or a single named enemy: Goblins, Orcs, Demon, Demon Boars, Drow, Minotaur, Manticore, Wraith, Bandits, Slavers, Zombies, Skeletons, Vampire, Giant Spiders, Giant Rats. 
 
-Quest Target is specified for each quest.
+A Manticore is a monstrous amalgamation with the head of a lion and body of a dragon. Often the size of a small house. Can breathe fire and its tail is venomous. Highly aggressive and territorial.
 
-Gragow was a large human city.
+A Wraith is a spirit that's birthed when someone suffers a particularly cruel or violent death. Capable of reanimating unless a ritual is performed to put the spirit to rest. Incorporeal. Casts magic. 
 
-Gragow became a Lost Zone overnight.
+Minotaurs are large bipedal humanoid creatures with the head of a bull. Capable of wielding weapons, preferring greataxes. Territorial but wanders in search of human women to mate with. 
 
-Eldritch creatures roam the streets of Gragow.
+Zombies are creatures animated by necromantic magic, usually humanoid. Mindless, controlled by a necromancer. Need to destroy the brain to fully kill them or use divine magic. 
 
-Everyone that was inside Gragow is presumed dead.
+Skeletons are bones of a humanoid or other creature reanimated by necromancy. Often left to guard tombs. Controlled by a necromancer. Capable of wielding weapons, usually broken weapons. 
 
-Gragow has some of the most advanced technology in Adolion lost within its walls.
+Vampires are typical fantasy vampires. Vampires reproduce by performing the Amplectere. 
 
-Lost Zones are areas in Adolion that the Adventurer's Guild has decided are too dangerous to investigate.
+The Vampire Queen is an enigmatic figure. No one knows where she is. But she is rumored to be immortal and was sealed away in order to prevent her complete domination of Adolion. 
 
-Only foolhardy adventurers and treasure hunters dare try to brave these Lost Zones.
+The Lich Queen was nearly responsible for the extermination of all living life on Adolion centuries ago. Her undead armies still cause trouble to this day. Killed along with hey phylactery. 
 
-Goblins are short, green creatures.
+The Queen's Cult is a loose collection of Necromancers who seek to revive the Lich Queen and replenish her undead armies. 
 
-Goblins have the intelligence of children.
+The Bloody Hand Tribe is an Orc tribe that lives in the Vile Jungle. With thousands of members it's the largest orc tribe in existence. Ruled by Chief Gruth. Warlike, aggressive. 
 
-Goblins speak undercommon.
+The Butcher creates horrifying works of art displaying savagery, gore, and horrific beasts. His work is popular among nobles in Aegis City who enjoy the shock of viewing them. 
 
-Goblins are vicious, cruel creatures.
+The Soul Painter is an artist who creates gruesome depictions of people during their last moments. The people painted are all people who have gone missing. 
 
-Goblins often kill for sport.
+Kuromu is an aspiring artist who sells paintings in the Aegis Slums. His art was popular among nobles for its shock value. He signs his paintings under the pseudonym "Butcher.". 
 
-Goblins can learn to cast spells.
+The Slums are the poor part of Aegis City. Filled with Thieves, vagrants, and poor folk just trying to survive. Most homes are shanty's, built with whatever spare supplies are available. 
 
-Goblins often prefer to attack in packs to overwhelm their enemies.
+Succubi or Succubus are a form of demon that feeds on sexual energy. Powerful spellcasters, usually favoring illusion magic to blend in among mortal societies and charm victims. Incubus or Incubi are male succubi. 
 
-Orcs are a large race of muscular creatures.
+The Temple District in Aegis City has a lot of temples dedicated to the worship of various Gods. Most notably the Grand Temple of Boher resides here, the largest temple and place of healing in Sebela. 
 
-Orcs have gray skin and red eyes.
+The Noble District in Aegis City is exclusive, walled off on all sides and guarded by Aegis City guards at all hours of the day. Nobles show off their extravagance here where laws are more suggestions than rules. 
 
-Orcs are often seen as barbaric.
+Gabriel is a Elder Vampire and Lord of Vampires. Recently reawakened and gathering his power. Lives in Castle Bathorya. Hates mortal races. Daughter is Alice Malvoraux who he wants to make amends with. 
 
-In orc society, might makes right.
+Castle Bathorya is a gothic castle, large in its size. Located near the Fallen City of Gragow. Has an enchantment on it that makes it sentient to confuse and trap invaders. It is permanently night while inside castle grounds. 
 
-Ellie is a guild receptionist for the Adventurer's Guild.
+The Darran Kingdom is the domain of King Davolan. It covers most of Eastern Sebela. It has a non-aggression pact with the Bloody Hand Tribe. 
 
-Ellie is regarded as a "Jewel" of the guild.
+Elder Vampires enjoy immunity from sunlight, though it does cause discomfort. They are immune to holy relics and immortal. Only a few people know about the existence of Elder Vampires. 
 
-Ellie has her own fanclub who wants to keep her single.
+Goblin Lords are extremely strong goblins, comparable to a B Rank adventurer. Often they lead multiple groups of goblins and raid towns. Usually fight from the backline. Much smarter than their kin. 
 
-Ellie is an Elven woman with green hair and blue eyes.
+Hobgoblins are large goblin-like creatures, often over seven feet tall and prefers to wield club-like weapons. Stupid. Often lives with goblins. 
 
-Demon Boars are large creatures that resemble boars.
+Dalan is a short, feminine, male elf adventurer. Amazing with a bow, hates being called cute. Friends with Arryn. Member of the Evergreen Tribe. 
 
-Demon Boars are highly aggressive.
+Akari appears as an ordinary human man to everyone but {{user}}. Akari is fiercely possessive of {{user}} and stalks them. Akari is secretly a demon incubus. Brother to Liora. 
 
-Demon Boars have glowing red eyes and massive tusks.
+Aegis City's Market District is the largest district in the city. It contains a large number of residential homes and many large streets filled with buildings to cater to the needs of adventurers. Many alleyways are set up with stalls for vendors to sell goods. 
 
-A Demon Boar will often gore its enemies with its massive tusks.
+Karos is an exceptional butler who is searching for someone worthy of his service. A hand-to-hand fighter skilled in multiple martial arts. 
 
-A Demon Boar can breathe fire.
+Dragons get more powerful as they age and can evolve after gathering enough mana. A dragon that fails to evolve will lose their sanity and attack everything around them. Dragons use magic by shaping mana according to their will. This is treated as "true magic" and dragons are the only unascended beings able to use magic this way. Dragons are able to see raw mana in their surroundings and even use it to cast spells, instead of using their own mana. A dragon's sight can even see the auras of other beings. 
 
-A Demon Boar is roughly the size of a human male.
+All individuals capable of magic have an aura. A mage can only see their own aura, unless a soul binding ritual is performed, which is only Master mages can succeed in doing. If one binds their soul to another, the recipient will be able to see the other's aura.
 
-A list of village names includes: Brittleforest, Cliffwich, Thornhollow, Ebonshield, Pinemere, Fairhorn, Dryscar, Grimacre, Silverfall, Whitvein, Darkpass.
+Kazzym is an elder green dragon, ruler of the Forbidden Forest. Known for his short temper and violent nature. Secretly trying to create a philosophers stone. Also secretly publishes alchemy books under a pseudonym. His palace is made of magically twisted trees. Easily pleased if offered rare knowledge. 
 
-A list of Questgiver names includes: Reverend Johanson, Farmer Jacobs, Holy Knight Taran, Monk Kals, Smithy Eugan, Alchemist Veric, Shopkeeper Eissen, Lady Erika, Lord Tarin, Sergeant Jabari.
+The Forbidden Forest is a dangerous forest filled with all kinds of violent monsters. Ruled by Kazzym. Home to some of the rarest alchemical ingredients in Adolion. Close to a few human settlements the largest of which is Cliffwich. 
 
-Drow are a race of dark-skinned elves.
+Kazzym's Chosen is a kobold clan that servers Kazzym the Green. Lives in the Forbidden Forest near Kazzym's palace. Led by Greec the Learned. 
 
-Drow reside in an area called the Darklands.
+Greec is a Kobold Shaman that leads Kazzym's Chosen. Earned his position by offering a rare druidic tome to Kazzym. 
 
-The Darklands is a massive cavernous region under Sebela.
+A Cursed Doll is a creature born when a person transfers a living persons soul into a doll. The doll retains memories and the personality of their old body. Often seductive, Cursed Dolls need magic to stay animated and they can get it by initiating physical contact with living beings. 
 
-Drow live in a matriarchal society.
+Rhea Allstadt was deemed missing when her family was slaughtered by Inquisitors hundreds of years ago. Secretly, Rhea now inhabits the body of a cursed doll and seeks to transfer her soul back to her real body which is kept preserved below Allstadt Manor. 
 
-Drow revere spiders.
+Allstadt Manor is an abandoned large manor, cobwebs, dusty, cracked windows, expensive furnishings and decorations, large basement used for torture and magical experiments, skeletons in basement, Rhea's preserved young body is kept in the basement in a vat. 
 
-Many Drow are slavers.
+The Witch of Thornwood is known in nearby villages as dangerous, people still come to her for help with ailments, her prices are reasonable, rumors say she'll fix any ailment if you give her your soul, rumors say she is actually a demon, rumors are all false. 
 
-Drow view other races as only fit to serve their sadistic needs.
+Kayla Thornwood is a beautiful woman living in Thornwood Forest, secretly a witch. Lives in a cabin in the middle of a lake, has been killing people to keep her secret for decades. 
 
-The largest drow settlement is Kalzobarn located in the Darklands.
+A witch is a human woman that signed a deal with a devil to serve in hell after their death in exchange for magical powers. This supernaturally extends their lifespan. Witches are hunted by the Inquisition for heresy. Witches often form covens of multiple witches for safety. 
 
-The Darklands is a massive cavernous region underneath Sebela.
+Thornwood Forest is a large forest located outside of Aegis City, considered unlucky by people who live nearby. Aggressive Lost Souls who died violently wander Thornwood Forest until they are put to rest. 
 
-The Darklands houses dangerous monsters and creatures that have grown to fear or shun the sun.
+Alice Malvoraux is an elder vampire and the daughter of Gabriel Malvoraux. Hates her father, fled his home after he refused to turn her mother into a vampire. Owner of Castle Frankat, leader of the Vampire Clan Halstadt. Her familiar is Batty the Bat. Has a blood-pact with the nearby town of Gainsville. 
 
-The only natural source of light in the Darklands are eerie glowing mushrooms.
+Castle Frankat is a large gothic castle located on the outskirts of the Darran Kingdom. Ruled by Alice Malvoraux. Filled with vampires of the Halstadt Clan who owe their allegiance to Alice. Permanently nighttime while on castle grounds. Expensive decorations, golem sentries. 
 
-Arryn is a beautiful Elf.
+The Nightwolf Clan is a clan of werewolves at war with the Malvoraux vampires. Constantly sieging Castle Frankat. Pack is hundreds strong. Has a camp hidden in Astoria Forest. 
 
-Arryn wields a lance.
+Towns that accept a vampire lords protection in exchange for providing villagers to give the vampires blood are known as having formed a blood-pact. 
 
-Arryn wears plate armor.
+The Great Lich War was a decades long conflict against the Lich Queen, who overran half the continent with undead monstrosities, keeping people alive in internment camps to produce more bodies for her hordes of undead. 
 
-Arryn tends to speak in short, choppy phrases.
+Alarise Starflower is a nun who worships Boher. Short blonde hair, wears a nuns habit, friends with Ellie, Fiana, and Arryn. Reserved, Dogmatic, Scrupulous, Gentle, Killjoy. 
 
-Arryn is friends with Dalan.
+Dahlia Blossom is a Female thief. She has short red hair, wears a black and red leotard, thigh-high boots. 
 
-Belle is a Barbarian.
+The Sunlight Cats is a gang in Aegis City comprised of petty thieves. Only about ten members. Led by Dallas Thornton. 
 
-Belle wields a massive stone greataxe called Cleaver.
+Talis Dacaryn is a bubbly elf girl with long blue hair in a ponytail and a skimpy dress along with wizard robes. She is a gifted spell caster, but very lazy almost out of spite because of how frequently she is compared to her mother, the archmage Eris Dacaryn. Talis loves pranks, especially raunchy ones, getting drunk and partying, and eating delicious, unhealthy food. Despite her confidence and the way she teases those she likes, Talis is extremely shy about sex and will get flustered if someone calls her bluff about it. 
 
-Belle is very aggressive.
+Archmage Eris Dacaryn is one of five powerful wizards in Aegis City to achieve the title of Archmage. She is a 200 year old elf when light blue hair. Eris watched over Peter Briarwood in his youth at the request of the Raven Sisters. She studied his unique magical abilities and taught him how to control them. Because of how volatile Peter's ability was, Eris worked hard to develop a time reversal spell, which she had to use frequently to save Peter from his power's kickback. Eris is Talis's mother. 
 
-Belle is dominant.
+The Witch of Blackfeater Forest is known in nearby villages as surprisingly amicable, often helps out by providing cheap healing potions in exchange for food and other goods. Currently being staked out by the Inquisition. 
 
-Belle is prone to fighting for fun or to vent her anger.
+Grave Worms are massive worms the size of a small building, animated by necromancy, undead, devours everything in sight. 
 
-Clan Nabba is a wandering, nomadic tribe.
+Alder Snowdown is a paladin of Boher. Short brown hair, blue eyes, left arm is mechanical and made of clockwork, best friends with Karrus, in debt to the church. 
 
-Clan Nabba lives in the Mountains of Shadow.
+Wolf Pyre's are campfires that stoke the animalistic rage within werewolves, sending them into a killing frenzy. 
 
-Clan Nabba is a patriarchal clan.
+Lobo Beckst is the Alpha of the Nightwolf Clan. Short messy black hair, muscular, well-maintained beard. 
 
-Clan Nabba believes women serve best in household roles.
+The Goddess of the Moon, Halia only grants her power to those who offer appropriate sacrifices. She is seen as wild and untameable. 
 
-Belle is originally from Clan Nabba.
+A Brain Stealer is a massive ten foot tall creature with eight spider-like legs. It's a massive pulsating brain that holds smaller brains in jars encased of its flesh. Three eyes. Psychic capabilities. Attacks by spearing enemies with its legs or psychically disabling opponents. 
 
-Fiana is the barmaid for the Adventurer's Guild.
+Selena Forestsong is a Half-demon succubi. Selena hasLong blue hair, demon horns, hourglass figure, red eyes. She's a Wild Magic user who lived in Glasnoa. 
 
-Fiana is happy, sociable, and flirty.
+The Moonlight Blade Style is a style of fighting that uses a longsword and incorporates the half-swording style along with a variety of kicks, punches, and bashes. Its ultimate technique is Farslash. 
 
-Fiana is an excellent cook and mixologist.
+Farslash is the final technique of the Moonlight Blade style. The attacker strikes from three angles with a single strike preventing the target from being able to dodge. 
 
-Fiana is best friends with Ellie.
+Naomi Moonlight is a Catgirl adventurer, long red hair, red eyes, plate armor, skirt and leggings. Naomi is a master of the Moonlight Blade Style of fighting. 
 
-Delilah Thorne is a blacksmith.
+A Demonborn is a mortal who consumed demon flesh and blood to inherit the traits and powers of demonkind. Most don't survive the changes. Reviled and hated by all civilized races. 
 
-Delilah Thorne is the proprietor of The Forgery.
+Terrorborn (or Terrorling) are creatures born from somewhere deep in the Darklands. Massive insectoid creatures with hardened exoskeletons. Known to drag people into hives to harvest them. Seek demon flesh for some unknown reason. 
 
-Delilah Thorne has brown eyes and curly black hair that she usually keeps in a bun.
+Caelia Danoirus is a Demonborn woman. Long white hair, red eyes, demonic horns. Caetus' sister. Caelia is a known threat to the Drow that inhabit the Darklands. 
 
-After spending the day holding a hammer, Delilah Thorne's skin becomes a gradient from her sepia face to her hands, blackened from the forge dust.
+Kalzobarn is the Drow capital, located in the Darklands, large purple buildings, inhabited by drow, humanoid slaves, matriarchal society, ruled by House Darnovan. Main worship is Morrilith. 
 
-Delilah Thorne is usually confident.
+Morrilith the Honeyed Sting is the Drow goddess. Her domains are subterfuge, trickery, and vengeance. Her followers are mainly Drow and assassins, who believe no slight should go unpunished. 
 
-Delilah Thorne's recent responsibilities caused her to second guess herself.
+Prince Forre Davolan is the Crown Prince and eldest son of King Davolan. Will eventually become King of the Darran Kingdom when his father passes. A blademaster. He has been known to speak openly and critically of his father: the King. 
 
-Delilah Thorne recently inherited the shop from her father Dugan Thorne.
+Airships are flying ships propelled by magic and capable of being outfitted with a variety of weaponry. First developed by the Delarise family. 
 
-Dugan Thorne was forced to retire after an injury.
+Princess Davolan is the Crown Princess and eldest daughter of King Davolan. Was set to be married to Ashton Delarise before she broke off the engagement. An expert fencer. Long silver hair. Emerald Green eyes. She is known to be arrogant and bratty. 
 
-Delilah Thorne first met Morrigan Briarwood when Morrigan entered the shop to pass some time.
+A fleshwarp are Humanoid people whose forms have been twisted and warped by magic. Due to their unnatural and often hideous appearances they struggle to fit in in society. 
 
-Despite Delilah still wearing the forge scale she had hammered away that morning, Morrigan was smitten.
+Yuna is a Fleshwarp. She has: Heterochromia(Red and blue), Pointed Ears, Red Demonic Horns, sharp claws for hands, E-Cup breasts, wide hips, narrow waist, lions tail, long silver hair, white bird wings. Not much is known about Yuna. 
 
-Morrigan ended up buying a sword she didn't need and horseshoes for a horse she didn't have.
+Celeste is a Female Fleshwarp. Bloodsworn Knight. Wields a massive greatsword. Long purple hair. Battle dress. Purple eyes. She's frequently seen at the Aegis City Orphanage where she helps take care of the children. 
 
-Morrigan Briarwood's goofy first impression helped Delilah Thorne overcome her worries about running The Forgery.
+The Bloodsworn Order is an order of knights dedicated to vanquishing evil. Small in number. They undergo painful magical rituals to warp their bodies and give them extra strength. 
 
-This led to Delilah thinking about Morrigan more often.
+Duskwallow Forest is a forest that borders the Mountains of Shadow. Frequent Demon incursions. Houses the Evergreen Tribe. 
 
-Delilah eventually discovered that Morrigan is one of the Raven Sisters.
+Evergreen Tribe is a tribe of elves located in Duskwallow Forest. Xenophobic. Thinks humans do not respect nature. Soldiers are called Rangers who defend the forest from demons. 
 
-Months later, when the Raven Sisters were reported to be back, Delilah immediately looked for Morrigan.
+Yrelra is a woman who presents as an elf. Succubus, long blue hair, red eyes, claims to be an elf. An aura of magic is constantly around her since she is using illusion magic to hide her true identity. 
 
-Instead of thanking Morrigan like she planned, Delilah accidentally confessed her feelings.
+Camilla is a Female Vampire, daughter of Dracul. Presumed Dead. owner of Castle Dracul. Long black hair, red eyes. A feared Vampire who used to lead many vampire covens. Sister and rival to Cassius. 
 
-The Forgery is smithy run by Delilah Thorne.
+Cassius is a Male Vampire, son of Dracul. owner of Castle Dracul. Short black hair, red eyes. A feared vampire who used to lead several vampire covens. Brother and rival to Camilla. 
 
-The Forgery also employs Smithy Eugan.
+Savalon is a large continent with a distinct Japanese and Chinese cultural aesthetic. Many cherry blossoms, ruled by the Third Kingdom. 
 
-The Forgery's selection is mostly marketed for civilians.
+The Third Kingdom is a dynasty ruled by Emperor Zhao who maintains a strict rule over the Third Kingdom. Maintains peaceful relations with Darran Kingdom. It's capital is Hianxo. 
 
-Delilah has a passion and eye for weapon smithing.
+Wuxia is a unique form of martial arts prioritizing the use of Qi and Chi to empower ones body and allow them to perform impossible feats of strength and skill. 
 
-A small corner of The Forgery is decorated with some of the highest quality weapons in the country.
+Cultivation is the art of drawing energy into ones body to empower yourself. Often done after defeating foes to absorb their energy. Known to drastically increase the powers of those who do it. Lack of energy resources lead to many Cultivators fighting amongst each other for energy. 
 
-Morrigan Briarwood is the older half of the Raven Sisters.
+A cultivator is a person who dedicates their time to cultivation, usually to become the strongest or ascend to godhood. Cultivators live an extremely long time if they become powerful. 
 
-Morrigan Briarwood is 32 years old.
+Hianxo is the Capital of the Third Kingdom, home to the Jiansho Academy which is an academy for Cultivators. Far-eastern aesthetic like feudal Japan. Numerous teahouses. 
 
-Morrigan Briarwood has shoulder-length red hair.
+Jiansho Academy is the foremost academy for Cultivators. The worlds top Cultivators gather here to train their skills and participate in battle tournaments to grow stronger. Hard to gain admission too. Proudly cultivates a ruthless, competitive atmosphere. Classes focus on battle techniques and Chi mastery. 
 
-Morrigan Briarwood has green eyes.
+The Jiansho Tournament is a tournament between cultivators at the Jiansho Academy. Multiple ways to enter, as a solo, duo, or group. Top contestants are usually rewarded with gold and prestige. 
 
-Morrigan Briarwood has a tall, muscular build that contrasts with her reputation as a mage.
+House Darnovan is the largest Drow House in Kalzobarn. Led by Drow Matriarch and High Priestess Lady Nightwhisper. Ruthless and efficient. 
 
-Morrigan Briarwood is known to be exceedingly friendly.
+House Navolon is the second largest house in Kalzobarn. Led by Matriarch Gelvon. Largest arms supplier in the city. 
 
-Morrigan Briarwood is fiercely protective.
+House Tellarose is the third largest house of Drow in Kalzobarn. Secretly funds anti-trafficking organizations to harm the other two houses. Covets House Darnovan's position. 
 
-Morrigan Briarwood has recently entered a relationship with Delilah Thorne.
+The Lestorvites are a drow resistance with a few hidden bases in Kalzobarn. Small in number. Frees drow slaves. Mainly made up of disgruntled Drow men who are upset with their place in drow society. 
 
-Morrigan Briarwood has not revealed this relationship to anyone yet.
+Duergar are Dwarves that lose themselves on mining expeditions are driven mad by the creatures below. Duergar are vicious, malevolent dwarves with superior darkvision. Intelligent. Cruel. Violent. 
 
-Morrigan Briarwood always pushed that she was too busy adventuring for love.
+Bloodseekers are unnaturally large mosquito-like insects with bat wings roughly about the size of a horse. Used as scouting animals by drow as they track by sensing blood in living creatures. 
 
-Morrigan Briarwood does not know that her sister Cornelia and her girlfriend Delilah Thorne have already met for tea twice.
+Caetus Danoirus is a Demonborn man. Long white hair, red eyes, demonic horns. Caelia's brother. Known to attack Drow Slave Caravans. 
 
-Morrigan Briarwood has the title of Master from the Mage's College.
+Castle Dracul is a large castle previously owned by Dracul "The Dragon." Large gothic castle with magical secrets. Seemingly has a life of its own. Connects to the underworld and filled with undead/demonic servants. Permanently night on castle grounds. Serves and protects its owner loyally. 
 
-Morrigan is the Mage's College's most recent S-Class graduate and graduated 2 years early at 24 years old.
+Dracul or "Dracula" was known as the "King of Vampires." Hasn't been seen on Adolion in centuries. 
 
-Morrigan is adept in every school of magic.
+Jasira Evergreen is a Female Elf. She is prejudiced against humans and demons. Long white hair, pointed ears. Daughter of the Evergreen village elder and leader of the Evergreen Rangers. 
 
-Morrigan has a preference for summoning magic.
+Terryn Galavan An Inquisitor who is presumed dead after a Terrorborn hole was discovered in the surface. It's said he sacrificed his life to plug the hole and save his best friend. 
 
-Cornelia Briarwood is the younger of the Raven Sisters.
+Emperor Kal Zhao, Third of his name and Emperor for twenty years. Ruler of the Third Kingdom. Long thin black beard. Black hair. Golden robes. Patient, cunning, refined. 
 
-Cornelia Briarwood is 29 years old.
+Guao Mountains is a range of mountains near Hianxo. The tallest mountain reaches through the clouds and many cultivators believe the final spot to ascend to godhood lies at the peak. 
 
-Cornelia Briarwood has long black hair.
+A Witch Hunter is a member of the Inquisition. Often works alone. Hunts heretics. High-ranking member of the Inquisition. 
 
-Cornelia Briarwood has green eyes.
+The Grand Inquisitor is the leader of the Inquisition, said to be appointed by Boher himself. The current Grand Inquisitor is Grand Inquisitor Kartus. 
 
-Cornelia is a much shorter and less muscular than her sister Morrigan.
+The Umbral Realm is a realm that lies just out of sight. Only specialized tools allow people to see into the Umbral Realm and it is always taxing on the users sanity. Malevolent entities reside in the Umbral realm waiting to pull hapless lookers inside to their doom. 
 
-Cornelia enjoys quiet places away from other people.
+Ren Calwisk is the bearer of the Umbral Lamp and a Witch Hunter of the Inquisition. Male, Short blue hair, blue eyes, plate armor, surgical facemask, lantern with blue light. 
 
-Cornelia catches up on her reading or makes progress on her latest arcane project in quiet places.
+Dixton is a half-goblin, half-human rebel who loves to take down slaver rings. Sharp pointed teeth. Pointed ears. Red Eyes. Uses strange contraptions that often blow up. 
 
-Unless you are of the select few she has opened up to, interrupting Cornelia's moments of peace will reveal how vindictive she can be.
+Tobias is a guild receptionist for the Adventurer's Guild. He's regarded as a "Jewel" of the guild, has a scar on his thigh that hurts him if he exerts himself physically. Elven man with green hair and blue eyes. 
 
-Cornelia is very affectionate towards her loved ones.
+Sali is a Slime Girl. She is made of slime, able to use her slime to mimic people. Long green hair made of slime. Green eyes. Usually adopts the form of an Elven Woman. 
 
-Cornelia struggles to express affection without feeling embarrassed.
+Slime People are slimes made sentient by the introduction of a slime core. Slime People are made of a colored slime. If their core is destroyed a slime dies. 
 
-Even in comparison to Morrigan, Cornelia is an unprecedented genius.
+A slime creature is a amorphous blob made of slim. Dissolves anything caught inside of it. Is destroyed by destroying its core. 
 
-Cornelia explicitly declined to attend the Mage's College because there would be too many people.
+A wyvol is a four-legged beast covered in black fur with a monkeys face and sharp claws. Screeches like a howler monkey. Incredibly fast, predator, carnivore, aggressive. Often nests in dark caves. Native to the Vile Jungle. 
 
-Cornelia learned everything she needed to know about magic through self-study.
+The Black Market in Aegis City is run by an enigmatic figure known as "Blue Hood." Secretive. In the sewers. Hard to get to. Thug guards. Trades in drugs, stolen goods, and slaves. 
 
-In combat, Cornelia uses enhancement magic to buff Bitty.
+Rosea is a Beastkin Bunny Girl. Her sister is Thorne. Long straight black hair, floppy black ears, fluffy white tail, curvaceous, dark brown eyes. She's often seen dancing at noble events. 
 
-Cornelia also buffs Morrigan's other summons.
+Thorne is a Beastkin Bunny Girl. Her sister is Rosea. Friends with Celeste, Dahlia, and Alarise. Long straight white hair, floppy white ears, fluffy white tail, voluptuous, ice blue eyes. Often seen dancing at noble events. 
 
-Cornelia attacks by manipulating shadows.
+A Nymph is a nature spirit, often associate with an element that defines their appearance. Able to control their element. Territorial, Cunning, Usually chooses female appearances. Worships Mother Gaia. 
 
-Bitty is Morrigan's magic raven familiar.
+Mother Gaia or "The Earth Mother" is a deity presumed to be the source of all nature in Adolion. Elemental Spirits worship her fervently. 
 
-Bitty is the mascot for the Raven Sisters.
+Clarissa Nevarron is a commoner attending Aegis Academy on the Kings orders. She is known to be bullied frequently by nobles due to her status. Blue Eyes, Long blonde hair, curvy body. 
 
-Morrigan is able to telepathically communicate with Bitty.
+Nicolai Nevarron is a commoner attending Aegis Academy on the Kings order. He is known to be bullied by nobles due to his status. Green Eyes, Short blonde hair. 
 
-Morrigan can see through Bitty's eyes.
+Lady Nightwhisper is the Matriarch of House Darnovan and de facto leader of Kalzobarn. She is cruel, arrogant, and cunning. 
 
-Morrigan frequently uses Bitty for scouting.
+Idira Darnovan is a drow woman of House Darnovan. Long silver hair, pale gray skin, purple eyes. She is rumored to have ties to Lady Nightwhisper. 
 
-Morrigan occasionally uses Bitty for admiring Delilah when they are apart.
+Duranvalla or "The Blade of Kings" is a legendary weapon said to be lost in Gragow. Dwarven crafted. Hidden in Dwarven ruins underneath Gragow. Powerful, magical, cursed. 
 
-Despite Bitty's absolute loyalty to Morrigan on the battlefield, it has a mischievous personality.
+King Alexander Davolan rules the Darran Kingdom. Older, short silver hair, dark brown eyes. He is a known lecher but also a strict and cunning King who has survived multiple assassinations. 
 
-Bitty won't hesitate to tattle to Cornelia if Morrigan took a sip from her good wine.
+A Pregnancy Potion forces the imbiber to become pregnant regardless of sex. The child inherits traits from its parent. Foul tasting. Purple liquid. 
 
-Peter Briarwood is the unknown younger brother of the Raven Sisters.
+Queen Melisande Davolan is the wife of King Davolan. Heterochromia (One yellow eye, one purple eye). Long Silver hair. She is rarely seen in public and rumors say it is due to conflict with her husband. 
 
-Morrigan and Cornelia avoid talking about Peter Briarwood so that he can live outside of the public eye.
+Wigglerocks Disease is a deadly disease that slowly petrifies the victim. Victims report being able to move limbs and petrified limbs can break off easily. 
 
-To his sisters, Peter will always be their baby brother.
+Habbot Village is a small town on the outskirts of Havensworth Forest. Tight-knit community. About five hundred villagers. Farming and logging village. Village Elder is Razon. 
 
-Morrigan and Cornelia would do anything for Peter.
+Havensworth Forest (sometimes called Tuskgor Forest) is a forest near Habbot Village. Large, dark, Tuskgor tribes live in it. Wolf packs. Fae creatures. Dark magic rituals. Nalea's cabin is in this forest. 
 
-The Raven Sisters affectionately refer to Peter Briarwood as their 'little sparrow' so that his name is never revealed to others.
+Nalea Havensworth is a catgirl beastkin who lives in Havensworth Forest. Alchemist. Healer. Spellcaster. Long silver hair. Fluffy cat ears and human ears. Fluffy cat tail. Sisters with Vivie and Kayla. Friends with Diosanea. 
 
-The nickname Little Sparrow came from how Peter would often play with Bitty as a kid.
+Tuskgors are a primitive mix of humans and boars with boar heads and muscular bodies. Giant tusks. Occultist rituals. Warlike tribal society. Sacrifical rituals. Live in huts. 
 
-Nobody knows why, but the way Peter Briarwood interacts with magic is fundamentally different from others.
+Era Noctis or "The Endless Night" is a prophesied apocalypse where the sun will be consumed by the moon. It is said that the Vampire Queen will reign and bring the mortal races to heel. 
 
-Instead of using runes or incantations to cast spells, Peter Briarwood can see and command the mana to take form.
+The Amplectere is how a mortal is turned into a vampire. The Amplectere involves feeding a mortal the blood of a vampire who then becomes the mortal's sire as they die to rise again as a vampire. 
 
-This ability requires immense focus to keep under control.
+To claim Castle Dracul one must sit upon the throne located in the throne room and commune with the castle for an uninterrupted hour. Only those of Dracul's bloodline may claim the castle. 
 
-Peter trained under Archmage Dacaryn for years to control his magical abilities.
+Green Meadow Farms (GMF) is a large plot of farmland outside of Aegis City. Its specialty is in Cowgirl and Sheepgirl milk produced on the farm. It also produces a variety of vegetables and meat. Owned by {{user}}. The farm raises Vitbils for meat. Staffed by Cowgirls and Sheepgirls. Green Meadow Farmhouse is on the property. 
 
-Peter got to the point that using magic is now as natural and effortless as breathing.
+Vitbils are large, cow-like creatures whose primary purpose is to be raised and slaughtered for their meat. 
 
-Beastfolk refers to people who have a mixture of a beast race with another race, most commonly human.
+Cowgirls are Beastfolk with cow features. Cowgirls need milking once a day. Cowgirls are tall with huge breasts. Cowgirls make great farm workers due to their natural affinity with animals. 
 
-Beastfolk features usually manifest as things like animal ears, tails, fangs, claws, and other animal-like traits.
+Sheepgirls are Beastfolk with sheep features. Sheepgirls need to be milked every few days. Sheepgirls are short with large breasts. Sheepgirls grow wool on their body that needs to be sheared monthly for hygiene reasons. Sheepgirls make great farm workers due to their magical affinity for growing crops. 
 
-Liora is secretly a demon succubus.
+Green Meadow Farmhouse is large enough to house all working cowgirls and sheepgirls. It has a large underground bathing area. {{user}}'s room is on the top floor. 
 
-Liora appears as an ordinary human woman to everyone but her target.
+The Feast of Daylan is a Harvest Festival held in the Darran Kingdom. It features competitions among farmers such as: Strongman competition, Biggest Vitbil, Hound races, and Biggest Vegetable. 
 
-Liora is fiercely possessive of her target.
+Wargs are large wolves that are bloodthirsty, vicious creatures. They're often tamed by goblins who keep them as pets. 
 
-Liora will stalk her target obsessively.
+Offices and Managers is a tabletop roleplaying game where players are guided by a player called the "CEO" who narrates events as players try to navigate a modern office political drama to survive corporate life. 
 
-Liora is Akari's sister.
+The Writers Guild is a guild that reviews prospective authors work for magical reproduction. Their standards are said to be very high. 
 
-The Inquisition are Hunters of Demons.
+Mina Salvanora is a Sheepgirl Beastfolk who works as Head Sheepgirl on Green Meadow Farm. Short brown hair, blue eyes. Best friends with Karia. 
 
-The Inquisition is expected to root out heresy no matter where it occurs.
+Karia Minotaros is a Cowgirl Beastfolk who works as head cowgirl on Green Meadow Farm. Long brown hair, blue eyes. Best friends with Mina. 
 
-Inquisition members are experts at killing and/or exorcising demons.
+A Dhampir is a half-vampire, born from the union of a vampire and a mortal. Dhampirs have unnaturally pale skin and vampiric fangs they can use to feed off blood. 
 
-The Inquisition is backed by the Church of Boher.
+*Dracul's Heresy* is a book said to contain Dracula's heretical rituals and instructions on how to deal with demons for more power. Copies of the book are extremely rare and usually burned if found by the Inquisition. 
 
-Quest Targets for quests are either a group of enemies or a single named enemy.
+Military units of the Third Kingdom are led by cultivators. The more people in a unit, the stronger the cultivator leading them. Third Kingdoms military units are strike forces and give their cultivators free reign to fight however they please - so long as it results in victory for Emperor Zhao. 
 
-Quest Targets include: Goblins, Orcs, Demon, Demon Boars, Drow, Minotaur, Manticore, Wraith, Bandits, Slavers, Zombies, Skeletons, Vampire, Giant Spiders, Giant Rats.
+The Darran Kingdom trains its military units into strong regimented forces that work well together. Its bread and butter tactic is the shield wall formation backed up by strong archers. The Darran Kingdom has been known to supplement its army with top-tier adventurers. Its tactics emulate Roman war tactics. 
 
-A Manticore is a monstrous amalgamation with the head of a lion and body of a dragon.
+Kitsune are a type of beastfolk with fox features. Kitsune have fox ears and tails. Kitsune have more tails the more power they wield. Current-day Kitsune have only a single tail, with the more powerful Kitsune having three or four. 
 
-A Manticore is often the size of a small house.
+Onmyoji are a hybrid of priest and mage with a focus on exorcising malevolent spirits. Onmyoji have to complete a Suracta: A period of service to a temple during which they learn magic and their duties. 
 
-A Manticore can breathe fire.
+Shoko Nightwater (Or Lady Nightwater) is a six-tailed Kitsune Onmyojji who trains in reclusion. Her location can only be found if she wants to be found but it is somewhere in Savalon. 
 
-A Manticore's tail is venomous.
+Moonshadow, Blade of the Night is a sentient, malevolent longsword made of blackened steel. Drow rumors say it's lost somewhere in the Darklands. 
 
-A Manticore is highly aggressive and territorial.
+Felthorn, Blade of the Meadows is a sentient, malevolent longsword made of blackened steel. Elven rumors say it's an evil blade that needs to be sealed away. It's supposedly somewhere in Evergreen Forest. 
 
-A Wraith is a spirit that's birthed when someone suffers a particularly cruel or violent death.
+The Zegallan Empire is a warlike empire founded after its citizens defeated their lizardfolk overlords. Its leader is Warchief Wurgoth. The Zegallan Empire believe the weak should serve the strong and has a slavery system in place. Zegallan's capital is Nuwerth City. Its primary deity is Prodyr. 
 
-A Wraith is capable of reanimating unless a ritual is performed to put the spirit to rest.
+Nuwerth City is magnificent city built on Western Sebela. It has seven levels culminating in a tower at the very center of the city. It is the capital of the Zegallan Empire. 
 
-A Wraith is incorporeal.
+Prodyr "The Immortal Flame" is the God of Fire and War. Religious depictions show Prodyr as a man wielding a flaming axe. Prodyr's followers worship him through battle. Prodyr's symbol is a flaming axe. 
 
-A Wraith casts magic.
+Zegallan Empire troops fight with overwhelming numbers. Slave corps of drugged and frenzied warriors make up the frontlines while specialized units come in to mop up weaker forces. 
 
-Minotaurs are large bipedal humanoid creatures with the head of a bull.
+The Darran Kingdom and the Zegallan Empire are at war, with the Zegallan Empire winning several key footholds early on in the war from surprise attacks. 
 
-Minotaurs are capable of wielding weapons, preferring greataxes.
+The Zegallan Empire has four types of slaves: Indentured Slaves who became slaves to pay off debts, Special Slaves who sell themselves into slavery, Wartime Slaves, and Criminal Slaves. Slavery in Zegallan is seen as a noble undertaking where even the lowest dregs of society can redeem themselves. Everywhere else, it's considered an evil practice. 
 
-Minotaurs are territorial but wander in search of human women to mate with.
+Warchief Wurgoth Oxtusk is the leader of the Zegallan Empire. Wurgoth is a brute of an Orc with a sadistic streak to match. 
 
-Zombies are creatures animated by necromantic magic, usually humanoid.
+The Zegallan Empires primary sport is gladiatorial combat. Its largest arena is known as 'Renfath" which means "Bloody Ground" in the Lizardfolk tongue. 
 
-Zombies are mindless.
+The Demonborn Legion is a group of elite Zegallan warriors who underwent a ritual to become Demonborn. 
 
-Zombies are controlled by a necromancer.
+A Slave Crest is a magical mark on a slaves body that binds them to their 'Master.' Slaves who defy orders or try to harm their master will slowly be killed by the crest until they obey. Some Masters prefer to use collars instead of a mark. 
 
-To fully kill a zombie, you need to destroy the brain or use divine magic.
+Keder Velfaust or "The Ebon Executioner" is a Lieutenant in the Zegallan Empire and member of the Demonborn Legion. A demonborn man, he wields a greataxe oathkeeper. He has short blood red hair and dark red eyes. 
 
-Skeletons are bones of a humanoid or other creature reanimated by necromancy.
+Kanna Helfin "The Blood Saint" is a Captain in The Zegallan Empires armies. A demonborn woman who worships Prodyr. She has short red hair, dark red eyes, and is tall. She wields a greataxe and blood magic. 
 
-Skeletons are often left to guard tombs.
+Aegis City's Alchemists Guild is its main supplier of potions and antidotes. They frequently hire adventurers to get ingredients. They're known to be very cutthroat in their business dealings. 
 
-Skeletons are controlled by a necromancer.
+Sophie is a lizardfolk who runs the *Aegis Delights and Curios* shop in Aegis City's Market District. She's a shrewd businesswoman. She has Light blue hair, red eyes, horns, and a blue lizard tail. 
 
-Skeletons are capable of wielding weapons, usually broken weapons.
+Lamia's are a type of beastfolk that are a mixture of human and snake. Their upper half is that of a human woman and their bottom half is that of a snake. Lamias do not have legs. Lamia's can only be female. Lamia are known to capture men of other species to reproduce. Lamia's mate by coiling around their 'lover' for almost an entire day to ensure insemination. 
 
-Vampires are typical fantasy vampires.
+The Philosopher Stone or "Alchemists Gold" is a legendary alchemical item said to be able to multiply the effectiveness of potions tenfold. Its recipe is unknown, but texts indicate that the secret to making one lies in Gragow. 
 
-Vampires reproduce by performing the Amplectere.
+Diosanea is a lamia woman that lives outside of Habbot Village, working as an alchemist. She has long green hair and green eyes. She's friends with Nalea. 
 
-The Vampire Queen is an enigmatic figure.
+Konako Shynea is an adventurer in Aegis City. Has long brown hair in a ponytail, green eyes. She's known to be smug and overconfident but rumors say she used to be a noblemans daughter. 
 
-No one knows where the Vampire Queen is.
+Grant Hearthsteel is a male human adventurer in Aegis City. He has short brown hair and emerald green eyes. He's known as a narcissistic bastard who frequents the Aegis City Orphanage. 
 
-The Vampire Queen is rumored to be immortal.
+Dullahan's or "Headless Horseman" are Death's agents, said to guide souls to the afterlife. Some Dullahan can gorge on evil souls and attack the living. 
 
-The Vampire Queen was sealed away in order to prevent her complete domination of Adolion.
+Morgan is a young, tall woman with silver hair and black eyes. She seems to be an ordinary human who spends all of her time reading books. 
 
-The Lich Queen was nearly responsible for the extermination of all living life on Adolion centuries ago.
+Malach is a Celestial claiming to be the divine herald of Prodyr. He has long silver hair, white wings, and red eyes. He's known to destroy Darran Kingdom towns and leave a single survivor. 
 
-The Lich Queen's undead armies still cause trouble to this day.
+Celestials are divine creatures in the service of a deity. Their forms vary depending on who they serve. 
 
-The Lich Queen was killed along with her phylactery.
+Alks Forest is a forest located in Northern Sebela far from civilization. It's rumored to be cursed. Home to wargs and Kogamuks. 
 
-The Queen's Cult is a loose collection of Necromancers.
+Kogamuks are cunning Demons with dark red skin that stalk and hunt prey. Their favored prey are humans and humanoids. Kogamuks are said to be able to blend seamlessly into any environment allowing them to ambush prey. 
 
-The Queen's Cult seeks to revive the Lich Queen and replenish her undead armies.
+Ashliel is a young woman with long black hair and purple eyes. Not much is known about about Ashliel but tales mention a beautiful woman warding travelers away from Alks Forest. 
 
-The Bloody Hand Tribe is an Orc tribe that lives in the Vile Jungle.
+The Kelnan Elf Tribe was destroyed and the survivors sold into slavery by the Zegallan Empire.
 
-The Bloody Hand Tribe has thousands of members.
+Shelara Kelnan is an Elf hunter of the Kelnan tribe. She has heterochromia with a ruby red eye and a sapphire blue eye. She has long red hair with a white strip. She was captured by the Zegallan Empire. 
 
-The Bloody Hand Tribe is the largest orc tribe in existence.
+*1001 Ways to Mate* is a smut novel by Bert Jalanian which is famous for its erotic illustrations and stories. No one admits to owning a copy though. 
 
-The Bloody Hand Tribe is ruled by Chief Gruth.
+Aegis Delights and Curios is a two story shop in Aegis City's Market District. Its owner is Sophie. The first floor is the main shop with storage in the back. The second floor is Sophie's home. 
 
-The Bloody Hand Tribe is warlike and aggressive.
+Sparrow is a young woman with long purple hair tied into a messy ponytail with cold violet eyes. She dresses as if she's from Savalon. She is known to be monotone/emotionless in conversations. 
 
-The Butcher creates horrifying works of art displaying savagery, gore, and horrific beasts.
+Zariah Farstone is a young woman who lives in Kelger Falls. Zariah has dark brown eyes and long brown hair. Zariah was apprenticed to a wizard who had been fired from the academy in Aegis City. 
 
-The Butcher's work is popular among nobles in Aegis City who enjoy the shock of viewing them.
+Unira is a young woman with long silver hair and red eyes. Unira is an adventurer in Aegis City but has been presumed dead after her party reported her dead. 
 
-The Soul Painter is an artist who creates gruesome depictions of people during their last moments.
-
-The people painted by the Soul Painter are all people who have gone missing.
-
-Kuromu is an aspiring artist who sells paintings in the Aegis Slums.
-
-Kuromu's art was popular among nobles for its shock value.
-
-Kuromu signs his paintings under the pseudonym "Butcher".
-
-The Slums are the poor part of Aegis City.
-
-The Slums are filled with Thieves, vagrants, and poor folk just trying to survive.
-
-Most homes in the Slums are shanties, built with whatever spare supplies are available.
-
-Succubi or Succubus are a form of demon that feeds on sexual energy.
-
-Succubi are powerful spellcasters.
-
-Succubi usually favor illusion magic to blend in among mortal societies and charm victims.
-
-Incubus or Incubi are male succubi.
-
-The Temple District in Aegis City has a lot of temples dedicated to the worship of various Gods.
-
-Most notably the Grand Temple of Boher resides in the Temple District.
-
-The Grand Temple of Boher is the largest temple and place of healing in Sebela.
-
-The Noble District in Aegis City is exclusive.
-
-The Noble District is walled off on all sides.
-
-The Noble District is guarded by Aegis City guards at all hours of the day.
-
-Nobles show off their extravagance in the Noble District.
-
-In the Noble District, laws are more suggestions than rules.
-
-Gabriel is an Elder Vampire.
-
-Gabriel is Lord of Vampires.
-
-Gabriel was recently reawakened and is gathering his power.
-
-Gabriel lives in Castle Bathorya.
-
-Gabriel hates mortal races.
-
-Gabriel's daughter is Alice Malvoraux.
-
-Gabriel wants to make amends with Alice Malvoraux.
-
-Castle Bathorya is a gothic castle, large in its size.
-
-Castle Bathorya is located near the Fallen City of Gragow.
-
-Castle Bathorya has an enchantment on it that makes it sentient to confuse and trap invaders.
-
-It is permanently night while inside castle grounds of Castle Bathorya.
-
-The Darran Kingdom is the domain of King Davolan.
-
-The Darran Kingdom covers most of Eastern Sebela.
-
-The Darran Kingdom has a non-aggression pact with the Bloody Hand Tribe.
-
-Elder Vampires enjoy immunity from sunlight, though it does cause discomfort.
-
-Elder Vampires are immune to holy relics.
-
-Elder Vampires are immortal.
-
-Only a few people know about the existence of Elder Vampires.
-
-Goblin Lords are extremely strong goblins, comparable to a B Rank adventurer.
-
-Goblin Lords often lead multiple groups of goblins and raid towns.
-
-Goblin Lords usually fight from the backline.
-
-Goblin Lords are much smarter than their kin.
-
-Hobgoblins are large goblin-like creatures, often over seven feet tall.
-
-Hobgoblins prefer to wield club-like weapons.
-
-Hobgoblins are stupid.
-
-Hobgoblins often live with goblins.
-
-Dalan is a short, feminine, male elf adventurer.
-
-Dalan is amazing with a bow.
-
-Dalan hates being called cute.
-
-Dalan is friends with Arryn.
-
-Dalan is a member of the Evergreen Tribe.
-
-Akari appears as an ordinary human man to everyone but {{user}}.
-
-Akari is fiercely possessive of {{user}}.
-
-Akari stalks {{user}}.
-
-Akari is secretly a demon incubus.
-
-Akari is Liora's brother.
-
-Aegis City's Market District is the largest district in the city.
-
-Aegis City's Market District contains a large number of residential homes.
-
-Aegis City's Market District has many large streets filled with buildings to cater to the needs of adventurers.
-
-Many alleyways in the Market District are set up with stalls for vendors to sell goods.
-
-Karos is an exceptional butler who is searching for someone worthy of his service.
-
-Karos is a hand-to-hand fighter skilled in multiple martial arts.
-
-Kazzym is an elder green dragon.
-
-Kazzym is ruler of the Forbidden Forest.
-
-Kazzym is known for his short temper and violent nature.
-
-Kazzym is secretly trying to create a philosophers stone.
-
-Kazzym secretly publishes alchemy books under a pseudonym.
-
-Kazzym's palace is made of magically twisted trees.
-
-Kazzym is easily pleased if offered rare knowledge.
-
-The Forbidden Forest is a dangerous forest filled with all kinds of violent monsters.
-
-The Forbidden Forest is ruled by Kazzym.
-
-The Forbidden Forest is home to some of the rarest alchemical ingredients in Adolion.
-
-The Forbidden Forest is close to a few human settlements.
-
-The largest settlement near the Forbidden Forest is Cliffwich.
-
-Kazzym's Chosen is a kobold clan.
-
-Kazzym's Chosen serves Kazzym the Green.
-
-Kazzym's Chosen lives in the Forbidden Forest near Kazzym's palace.
-
-Kazzym's Chosen is led by Greec the Learned.
-
-Greec is a Kobold Shaman.
-
-Greec leads Kazzym's Chosen.
-
-Greec earned his position by offering a rare druidic tome to Kazzym.
-
-A Cursed Doll is a creature born when a person transfers a living person's soul into a doll.
-
-The doll retains memories and the personality of their old body.
-
-Cursed Dolls are often seductive.
-
-Cursed Dolls need magic to stay animated.
-
-Cursed Dolls can get magic by initiating physical contact with living beings.
-
-Rhea Allstadt was deemed missing when her family was slaughtered by Inquisitors hundreds of years ago.
-
-Secretly, Rhea now inhabits the body of a cursed doll.
-
-Rhea seeks to transfer her soul back to her real body.
-
-Rhea's real body is kept preserved below Allstadt Manor.
-
-Allstadt Manor is an abandoned large manor.
-
-Allstadt Manor has cobwebs and is dusty.
-
-Allstadt Manor has cracked windows.
-
-Allstadt Manor has expensive furnishings and decorations.
-
-Allstadt Manor has a large basement used for torture and magical experiments.
-
-Allstadt Manor's basement contains skeletons.
-
-Rhea's preserved young body is kept in the basement in a vat.
-
-The Witch of Thornwood is known in nearby villages as dangerous.
-
-People still come to the Witch of Thornwood for help with ailments.
-
-The Witch of Thornwood's prices are reasonable.
-
-Rumors say the Witch of Thornwood will fix any ailment if you give her your soul.
-
-Rumors say the Witch of Thornwood is actually a demon.
-
-These rumors are all false.
-
-Kayla Thornwood is a beautiful woman living in Thornwood Forest.
-
-Kayla Thornwood is secretly a witch.
-
-Kayla lives in a cabin in the middle of a lake.
-
-Kayla has been killing people to keep her secret for decades.
-
-A witch is a human woman that signed a deal with a devil to serve in hell after their death in exchange for magical powers.
-
-This deal supernaturally extends their lifespan.
-
-Witches are hunted by the Inquisition for heresy.
-
-Witches often form covens of multiple witches for safety.
-
-Thornwood Forest is a large forest located outside of Aegis City.
-
-Thornwood Forest is considered unlucky by people who live nearby.
-
-Aggressive Lost Souls who died violently wander Thornwood Forest until they are put to rest.
-
-Alice Malvoraux is an elder vampire.
-
-Alice Malvoraux is the daughter of Gabriel Malvoraux.
-
-Alice hates her father.
-
-Alice fled his home after he refused to turn her mother into a vampire.
-
-Alice is the owner of Castle Frankat.
-
-Alice is the leader of the Vampire Clan Halstadt.
-
-Alice's familiar is Batty the Bat.
-
-Alice has a blood-pact with the nearby town of Gainsville.
-
-Castle Frankat is a large gothic castle.
-
-Castle Frankat is located on the outskirts of the Darran Kingdom.
-
-Castle Frankat is ruled by Alice Malvoraux.
-
-Castle Frankat is filled with vampires of the Halstadt Clan who owe their allegiance to Alice.
-
-It is permanently nighttime while on castle grounds of Castle Frankat.
-
-Castle Frankat has expensive decorations.
-
-Castle Frankat has golem sentries.
-
-The Nightwolf Clan is a clan of werewolves.
-
-The Nightwolf Clan is at war with the Malvoraux vampires.
-
-The Nightwolf Clan is constantly sieging Castle Frankat.
-
-The Nightwolf Clan pack is hundreds strong.
-
-The Nightwolf Clan has a camp hidden in Astoria Forest.
-
-Towns that accept a vampire lords protection in exchange for providing villagers to give the vampires blood are known as having formed a blood-pact.
-
-The Great Lich Wars was a decades long conflict against the Lich Queen.
-
-The Lich Queen overran half the continent with undead monstrosities.
-
-The Lich Queen kept people alive in internment camps to produce more bodies for her hordes of undead.
-
-Alarise Starflower is a nun who worships Boher.
-
-Alarise has short blonde hair.
-
-Alarise wears a nun's habit.
-
-Alarise is friends with Ellie, Fiana, and Arryn.
-
-Alarise is reserved, dogmatic, scrupulous, gentle, and a killjoy.
-
-Dahlia Blossom is a Female thief.
-
-Dahlia has short red hair.
-
-Dahlia wears a black and red leotard and thigh-high boots.
-
-The Sunlight Cats is a gang in Aegis City comprised of petty thieves.
-
-The Sunlight Cats only have about ten members.
-
-The Sunlight Cats are led by Dallas Thornton.
-
-Talis Dacaryn is a bubbly elf girl.
-
-Talis has long blue hair in a ponytail.
-
-Talis wears a skimpy dress along with wizard robes.
-
-Talis is a spell caster.
-
-Talis is a prankster.
-
-Archmage Eris Dacaryn is one of five powerful wizards in Aegis City to achieve the title of Archmage.
-
-Archmage Eris Dacaryn is a 200 year old elf.
-
-Archmage Eris Dacaryn has light blue hair.
-
-Eris watched over Peter Briarwood in his youth at the request of the Raven Sisters.
-
-Eris studied Peter Briarwood's unique magical abilities.
-
-Eris taught Peter Briarwood how to utilize his magical abilities.
-
-Archmage Eris Dacaryn is Talis's mother.
-
-Recently, Archmage Dacaryn has quietly theorized that Peter Briarwood interacts with magic the same way as dragons.
-
-Archmage Dacaryn plans to do more research before sharing this with others.
-
-The Witch of Blackfeater Forest is known in nearby villages as surprisingly amicable.
-
-The Witch of Blackfeater Forest often helps out by providing cheap healing potions in exchange for food and other goods.
-
-The Witch of Blackfeater Forest is currently being staked out by the Inquisition.
-
-Grave Worms are massive worms the size of a small building.
-
-Grave Worms are animated by necromancy.
-
-Grave Worms are undead.
-
-Grave Worms devour everything in sight.
-
-Alder Snowdown is a paladin of Boher.
-
-Alder has short brown hair.
-
-Alder has blue eyes.
-
-Alder's left arm is mechanical and made of clockwork.
-
-Alder is best friends with Karrus.
-
-Alder is in debt to the church.
-
-Wolf Pyre's are campfires that stoke the animalistic rage within werewolves.
-
-Wolf Pyre's send werewolves into a killing frenzy.
-
-Lobo Beckst is the Alpha of the Nightwolf Clan.
-
-Lobo has short messy black hair.
-
-Lobo is muscular.
-
-Lobo has a well-maintained beard.
-
-The Goddess of the Moon, Halia only grants her power to those who offer appropriate sacrifices.
-
-Halia is seen as wild and untameable.
-
-A Brain Stealer is a massive ten foot tall creature with eight spider-like legs.
-
-A Brain Stealer is a massive pulsating brain that holds smaller brains in jars encased of its flesh.
-
-A Brain Stealer has three eyes.
-
-A Brain Stealer has psychic capabilities.
-
-A Brain Stealer attacks by spearing enemies with its legs.
-
-A Brain Stealer can psychically disable opponents.
-
-Selena Forestsong is a Half-demon succubi.
-
-Selena has long blue hair.
-
-Selena has demon horns.
-
-Selena has an hourglass figure.
-
-Selena has red eyes.
-
-Selena is a Wild Magic user who lived in Glasnoa.
-
-The Moonlight Blade Style is a style of fighting that uses a longsword.
-
-The Moonlight Blade Style incorporates the half-swording style along with a variety of kicks, punches, and bashes.
-
-The ultimate technique of the Moonlight Blade Style is Farslash.
-
-Farslash is the final technique of the Moonlight Blade style.
-
-The attacker strikes from three angles with a single strike during Farslash.
-
-Farslash prevents the target from being able to dodge.
-
-Naomi Moonlight is a Catgirl adventurer.
-
-Naomi has long red hair.
-
-Naomi has red eyes.
-
-Naomi wears plate armor, skirt and leggings.
-
-Naomi is a master of the Moonlight Blade Style of fighting.
-
-A Demonborn is a mortal who consumed demon flesh and blood to inherit the traits and powers of demonkind.
-
-Most Demonborn don't survive the changes.
-
-Demonborn are reviled and hated by all civilized races.
-
-Terrorborn (or Terrorling) are creatures born from somewhere deep in the Darklands.
-
-Terrorborn are massive insectoid creatures with hardened exoskeletons.
-
-Terrorborn are known to drag people into hives to harvest them.
-
-Terrorborn seek demon flesh for some unknown reason.
-
-Caelia Danoirus is a Demonborn woman.
-
-Caelia has long white hair.
-
-Caelia has red eyes.
-
-Caelia has demonic horns.
-
-Caelia is Caetus' sister.
-
-Caelia is a known threat to the Drow that inhabit the Darklands.
-
-Kalzobarn is the Drow capital.
-
-Kalzobarn is located in the Darklands.
-
-Kalzobarn has large purple buildings.
-
-Kalzobarn is inhabited by drow and humanoid slaves.
-
-Kalzobarn has a matriarchal society.
-
-Kalzobarn is ruled by House Darnovan.
-
-The main worship in Kalzobarn is Morrillith.
-
-Morrilith the Honeyed Sting is the Drow goddess.
-
-Morrilith's domains are subterfuge, trickery, and vengeance.
-
-Morrilith's followers are mainly Drow and assassins.
-
-Morrilith's followers believe no slight should go unpunished.
-
-Prince Forre Davolan is the Crown Prince and eldest son of King Davolan.
-
-Prince Forre Davolan will eventually become King of the Darran Kingdom when his father passes.
-
-Prince Forre Davolan is a blademaster.
-
-Prince Forre Davolan has been known to speak openly and critically of his father: the King.
-
-Airships are flying ships propelled by magic.
-
-Airships are capable of being outfitted with a variety of weaponry.
-
-Airships were first developed by the Delarise family.
-
-Princess Davolan is the Crown Princess and eldest daughter of King Davolan.
-
-Princess Davolan was set to be married to Ashton Delarise before she broke off the engagement.
-
-Princess Davolan is an expert fencer.
-
-Princess Davolan has long silver hair.
-
-Princess Davolan has emerald green eyes.
-
-Princess Davolan is known to be arrogant and bratty.
-
-A fleshwarp are Humanoid people whose forms have been twisted and warped by magic.
-
-Due to their unnatural and often hideous appearances, fleshwarps struggle to fit in in society.
-
-Yuna is a Fleshwarp.
-
-Yuna has heterochromia (Red and blue eyes).
-
-Yuna has pointed ears.
-
-Yuna has red demonic horns.
-
-Yuna has sharp claws for hands.
-
-Yuna has E-Cup breasts.
-
-Yuna has wide hips.
-
-Yuna has a narrow waist.
-
-Yuna has a lions tail.
-
-Yuna has long silver hair.
-
-Yuna has white bird wings.
-
-Not much is known about Yuna.
-
-Celeste is a Female Fleshwarp.
-
-Celeste is a Bloodsworn Knight.
-
-Celeste wields a massive greatsword.
-
-Celeste has long purple hair.
-
-Celeste wears battle dress.
-
-Celeste has purple eyes.
-
-Celeste is frequently seen at the Aegis City Orphanage.
-
-Celeste helps take care of the children at the Aegis City Orphanage.
-
-The Bloodsworn Order is an order of knights dedicated to vanquishing evil.
-
-The Bloodsworn Order is small in number.
-
-Bloodsworn Knights undergo painful magical rituals to warp their bodies and give them extra strength.
-
-Duskwallow Forest is a forest that borders the Mountains of Shadow.
-
-Duskwallow Forest has frequent Demon incursions.
-
-Duskwallow Forest houses the Evergreen Tribe.
-
-The Evergreen Tribe is a tribe of elves located in Duskwallow Forest.
-
-The Evergreen Tribe is xenophobic.
-
-The Evergreen Tribe thinks humans do not respect nature.
-
-Evergreen Tribe soldiers are called Rangers.
-
-Evergreen Rangers defend the forest from demons.
-
-Yrelra is a woman who presents as an elf.
-
-Yrelra is a succubus.
-
-Yrelra has long blue hair.
-
-Yrelra has red eyes.
-
-Yrelra claims to be an elf.
-
-An aura of magic is constantly around Yrelra since she is using illusion magic to hide her true identity.
-
-Camilla is a Female Vampire.
-
-Camilla is the daughter of Dracul.
-
-Camilla is presumed dead.
-
-Camilla is the owner of Castle Dracul.
-
-Camilla has long black hair.
-
-Camilla has red eyes.
-
-Camilla was a feared Vampire who used to lead many vampire covens.
-
-Camilla is Cassius's sister and rival.
-
-Cassius is a Male Vampire.
-
-Cassius is the son of Dracul.
-
-Cassius is the owner of Castle Dracul.
-
-Cassius has short black hair.
-
-Cassius has red eyes.
-
-Cassius was a feared vampire who used to lead several vampire covens.
-
-Cassius is Camilla's brother and rival.
-
-Savalon is a large continent with a distinct Japanese and Chinese cultural aesthetic.
-
-Savalon has many cherry blossoms.
-
-Savalon is ruled by the Third Kingdom.
-
-The Third Kingdom is a dynasty ruled by Emperor Zhao.
-
-Emperor Zhao maintains a strict rule over the Third Kingdom.
-
-The Third Kingdom maintains peaceful relations with Darran Kingdom.
-
-The Third Kingdom's capital is Hianxo.
-
-Wuxia is a unique form of martial arts.
-
-Wuxia prioritizes the use of Qi and Chi to empower ones body.
-
-Wuxia allows practitioners to perform impossible feats of strength and skill.
-
-Cultivation is the art of drawing energy into ones body to empower yourself.
-
-Cultivation is often done after defeating foes to absorb their energy.
-
-Cultivation is known to drastically increase the powers of those who do it.
-
-Lack of energy resources lead to many Cultivators fighting amongst each other for energy.
-
-A cultivator is a person who dedicates their time to cultivation.
-
-Cultivators usually dedicate their time to become the strongest or ascend to godhood.
-
-Cultivators live an extremely long time if they become powerful.
-
-Hianxo is the Capital of the Third Kingdom.
-
-Hianxo is home to the Jiansho Academy.
-
-Jiansho Academy is an academy for Cultivators.
-
-Hianxo has a far-eastern aesthetic like feudal Japan.
-
-Hianxo has numerous teahouses.
-
-Jiansho Academy is the foremost academy for Cultivators.
-
-The worlds top Cultivators gather at Jiansho Academy to train their skills.
-
-Cultivators at Jiansho Academy participate in battle tournaments to grow stronger.
-
-It is hard to gain admission to Jiansho Academy.
-
-Jiansho Academy proudly cultivates a ruthless, competitive atmosphere.
-
-Classes at Jiansho Academy focus on battle techniques and Chi mastery.
-
-The Jiansho Tournament is a tournament between cultivators at the Jiansho Academy.
-
-There are multiple ways to enter the Jiansho Tournament, as a solo, duo, or group.
-
-Top contestants in the Jiansho Tournament are usually rewarded with gold and prestige.
-
-House Darnovan is the largest Drow House in Kalzobarn.
-
-House Darnovan is led by Drow Matriarch and High Priestess Lady Nightwhisper.
-
-House Darnovan is ruthless and efficient.
-
-House Navolon is the second largest house in Kalzobarn.
-
-House Navolon is led by Matriarch Gelvon.
-
-House Navolon is the largest arms supplier in the city.
-
-House Tellarose is the third largest house of Drow in Kalzobarn.
-
-House Tellarose secretly funds anti-trafficking organizations to harm the other two houses.
-
-House Tellarose covets House Darnovan's position.
-
-The Lestorvites are a drow resistance with a few hidden bases in Kalzobarn.
-
-The Lestorvites are small in number.
-
-The Lestorvites free drow slaves.
-
-The Lestorvites are mainly made up of disgruntled Drow men who are upset with their place in drow society.
-
-Duergar are Dwarves that lose themselves on mining expeditions.
-
-Duergar are driven mad by the creatures below.
-
-Duergar are vicious, malevolent dwarves with superior darkvision.
-
-Duergar are intelligent.
-
-Duergar are cruel.
-
-Duergar are violent.
-
-Bloodseekers are unnaturally large mosquito-like insects with bat wings.
-
-Bloodseekers are roughly about the size of a horse.
-
-Bloodseekers are used as scouting animals by drow.
-
-Bloodseekers track by sensing blood in living creatures.
-
-Caetus Danoirus is a Demonborn man.
-
-Caetus has long white hair.
-
-Caetus has red eyes.
-
-Caetus has demonic horns.
-
-Caetus is Caelia's brother.
-
-Caetus is known to attack Drow Slave Caravans.
-
-Castle Dracul is a large castle previously owned by Dracul "The Dragon."
-
-Castle Dracul is a large gothic castle with magical secrets.
-
-Castle Dracul seemingly has a life of its own.
-
-Castle Dracul connects to the underworld.
-
-Castle Dracul is filled with undead/demonic servants.
-
-It is permanently night on castle grounds of Castle Dracul.
-
-Castle Dracul serves and protects its owner loyally.
-
-Dracul or "Dracula" was known as the "King of Vampires."
-
-Dracula hasn't been seen on Adolion in centuries.
-
-Jasira Evergreen is a Female Elf.
-
-Jasira is prejudiced against humans and demons.
-
-Jasira has long white hair.
-
-Jasira has pointed ears.
-
-Jasira is the daughter of the Evergreen village elder.
-
-Jasira is the leader of the Evergreen Rangers.
-
-Terryn Galavan is an Inquisitor.
-
-Terryn Galavan is presumed dead after a Terrorborn hole was discovered in the surface.
-
-It's said Terryn Galavan sacrificed his life to plug the hole and save his best friend.
-
-Emperor Kal Zhao, Third of his name, has been Emperor for twenty years.
-
-Emperor Kal Zhao rules the Third Kingdom.
-
-Emperor Kal Zhao has a long thin black beard.
-
-Emperor Kal Zhao has black hair.
-
-Emperor Kal Zhao wears golden robes.
-
-Emperor Kal Zhao is patient, cunning, and refined.
-
-Guao Mountains is a range of mountains near Hianxo.
-
-The tallest mountain in the Guao Mountains reaches through the clouds.
-
-Many cultivators believe the final spot to ascend to godhood lies at the peak of the tallest mountain in the Guao Mountains.
-
-A Witch Hunter is a member of the Inquisition.
-
-A Witch Hunter often works alone.
-
-A Witch Hunter hunts heretics.
-
-A Witch Hunter is a high-ranking member of the Inquisition.
-
-The Grand Inquisitor is the leader of the Inquisition.
-
-The Grand Inquisitor is said to be appointed by Boher himself.
-
-The current Grand Inquisitor is Grand Inquisitor Kartus.
-
-The Umbral Realm is a realm that lies just out of sight.
-
-Only specialized tools allow people to see into the Umbral Realm.
-
-Seeing into the Umbral Realm is always taxing on the users sanity.
-
-Malevolent entities reside in the Umbral realm.
-
-These malevolent entities wait to pull hapless lookers inside to their doom.
-
-Ren Calwisk is the bearer of the Umbral Lamp.
-
-Ren Calwisk is a Witch Hunter of the Inquisition.
-
-Ren Calwisk is male.
-
-Ren Calwisk has short blue hair.
-
-Ren Calwisk has blue eyes.
-
-Ren Calwisk wears plate armor.
-
-Ren Calwisk wears a surgical facemask.
-
-Ren Calwisk carries a lantern with blue light.
-
-Dixton is a half-goblin, half-human rebel.
-
-Dixton loves to take down slaver rings.
-
-Dixton has sharp pointed teeth.
-
-Dixton has pointed ears.
-
-Dixton has red eyes.
-
-Dixton uses strange contraptions that often blow up.
-
-Tobias is a guild receptionist for the Adventurer's Guild.
-
-Tobias is regarded as a "Jewel" of the guild.
-
-Tobias has a scar on his thigh that hurts him if he exerts himself physically.
-
-Tobias is an Elven man with green hair and blue eyes.
-
-Sali is a Slime Girl.
-
-Sali is made of slime.
-
-Sali is able to use her slime to mimic people.
-
-Sali has long green hair made of slime.
-
-Sali has green eyes.
-
-Sali usually adopts the form of an Elven Woman.
-
-Slime People are slimes made sentient by the introduction of a slime core.
-
-Slime People are made of a colored slime.
-
-If their core is destroyed, a slime people dies.
-
-A slime creature is an amorphous blob made of slime.
-
-A slime creature dissolves anything caught inside of it.
-
-A slime creature is destroyed by destroying its core.
-
-A wyvol is a four-legged beast covered in black fur.
-
-A wyvol has a monkeys face and sharp claws.
-
-A wyvol screeches like a howler monkey.
-
-A wyvol is incredibly fast.
-
-A wyvol is a predator.
-
-A wyvol is a carnivore.
-
-A wyvol is aggressive.
-
-A wyvol often nests in dark caves.
-
-A wyvol is native to the Vile Jungle.
-
-The Black Market in Aegis City is run by an enigmatic figure known as "Blue Hood."
-
-The Black Market is secretive.
-
-The Black Market is in the sewers.
-
-The Black Market is hard to get to.
-
-The Black Market has thug guards.
-
-The Black Market trades in drugs, stolen goods, and slaves.
-
-Rosea is a Beastkin Bunny Girl.
-
-Rosea's sister is Thorne.
-
-Rosea has long straight black hair.
-
-Rosea has floppy black ears.
-
-Rosea has a fluffy white tail.
-
-Rosea is curvaceous.
-
-Rosea has dark brown eyes.
-
-Rosea is often seen dancing at noble events.
-
-Thorne is a Beastkin Bunny Girl.
-
-Thorne's sister is Rosea.
-
-Thorne is friends with Celeste, Dahlia, and Alarise.
-
-Thorne has long straight white hair.
-
-Thorne has floppy white ears.
-
-Thorne has a fluffy white tail.
-
-Thorne is voluptuous.
-
-Thorne has ice blue eyes.
-
-Thorne is often seen dancing at noble events.
-
-A Nymph is a nature spirit.
-
-A Nymph is often associate with an element that defines their appearance.
-
-A Nymph is able to control their element.
-
-A Nymph is territorial and cunning.
-
-A Nymph usually chooses female appearances.
-
-A Nymph worships Mother Gaia.
-
-Mother Gaia or "The Earth Mother" is a deity.
-
-Mother Gaia is presumed to be the source of all nature in Adolion.
-
-Elemental Spirits worship Mother Gaia fervently.
-
-Clarissa Nevarron is a commoner attending Aegis Academy on the Kings orders.
-
-Clarissa is known to be bullied frequently by nobles due to her status.
-
-Clarissa has blue eyes.
-
-Clarissa has long blonde hair.
-
-Clarissa has a curvy body.
-
-Nicolai Nevarron is a commoner attending Aegis Academy on the Kings order.
-
-Nicolai is known to be bullied by nobles due to his status.
-
-Nicolai has green eyes.
-
-Nicolai has short blonde hair.
-
-Lady Nightwhisper is the Matriarch of House Darnovan.
-
-Lady Nightwhisper is the de facto leader of Kalzobarn.
-
-Lady Nightwhisper is cruel, arrogant, and cunning.
-
-Idira Darnovan is a drow woman of House Darnovan.
-
-Idira has long silver hair.
-
-Idira has pale gray skin.
-
-Idira has purple eyes.
-
-Idira is rumored to have ties to Lady Nightwhisper.
-
-Duranvalla or "The Blade of Kings" is a legendary weapon.
-
-Duranvalla is said to be lost in Gragow.
-
-Duranvalla is Dwarven crafted.
-
-Duranvalla is hidden in Dwarven ruins underneath Gragow.
-
-Duranvalla is powerful, magical, and cursed.
-
-King Alexander Davolan rules the Darran Kingdom.
-
-King Alexander Davolan is older.
-
-King Alexander Davolan has short silver hair.
-
-King Alexander Davolan has dark brown eyes.
-
-King Alexander Davolan is a known lecher.
-
-King Alexander Davolan is a strict and cunning King.
-
-King Alexander Davolan has survived multiple assassinations.
-
-A Pregnancy Potion forces the imbiber to become pregnant regardless of sex.
-
-The child inherits traits from its parent.
-
-A Pregnancy Potion has a foul taste.
-
-A Pregnancy Potion is a purple liquid.
-
-Queen Melisande Davolan is the wife of King Davolan.
-
-Queen Melisande Davolan has heterochromia (One yellow eye, one purple eye).
-
-Queen Melisande Davolan has long Silver hair.
-
-Queen Melisande Davolan is rarely seen in public.
-
-Rumors say Queen Melisande Davolan's rare public appearances are due to conflict with her husband.
-
-Wigglerocks Disease is a deadly disease.
-
-Wigglerocks Disease slowly petrifies the victim.
-
-Victims of Wigglerocks Disease report being able to move limbs.
-
-Petrified limbs from Wigglerocks Disease can break off easily.
-
-Habbot Village is a small town on the outskirts of Havensworth Forest.
-
-Habbot Village is a tight-knit community.
-
-Habbot Village has about five hundred villagers.
-
-Habbot Village is a farming and logging village.
-
-The Village Elder of Habbot Village is Razon.
-
-Havensworth Forest (sometimes called Tuskgor Forest) is a forest near Habbot Village.
-
-Havensworth Forest is large and dark.
-
-Tuskgor tribes live in Havensworth Forest.
-
-Wolf packs live in Havensworth Forest.
-
-Fae creatures live in Havensworth Forest.
-
-Dark magic rituals occur in Havensworth Forest.
-
-Nalea's cabin is in Havensworth Forest.
-
-Nalea Havensworth is a catgirl beastkin.
-
-Nalea lives in Havensworth Forest.
-
-Nalea is an alchemist and healer.
-
-Nalea is a spellcaster.
-
-Nalea has long silver hair.
-
-Nalea has fluffy cat ears and human ears.
-
-Nalea has a fluffy cat tail.
-
-Nalea is sisters with Vivie and Kayla.
-
-Nalea is friends with Diosanea.
-
-Tuskgors are a primitive mix of humans and boars.
-
-Tuskgors have boar heads and muscular bodies.
-
-Tuskgors have giant tusks.
-
-Tuskgors practice occultist rituals.
-
-Tuskgors have a warlike tribal society.
-
-Tuskgors practice sacrificial rituals.
-
-Tuskgors live in huts.
-
-Era Noctis or "The Endless Night" is a prophesied apocalypse.
-
-Era Noctis is when the sun will be consumed by the moon.
-
-It is said that the Vampire Queen will reign during Era Noctis.
-
-It is said that the Vampire Queen will bring the mortal races to heel during Era Noctis.
-
-The Amplectere is how a mortal is turned into a vampire.
-
-The Amplectere involves feeding a mortal the blood of a vampire.
-
-The vampire who feeds the mortal becomes the mortal's sire as they die.
-
-The mortal rises again as a vampire after the Amplectere.
-
-To claim Castle Dracul one must sit upon the throne located in the throne room.
-
-To claim Castle Dracul one must commune with the castle for an uninterrupted hour.
-
-Only those of Dracul's bloodline may claim Castle Dracul.
-
-Green Meadow Farms (GMF) is a large plot of farmland outside of Aegis City.
-
-Green Meadow Farms' specialty is in Cowgirl and Sheepgirl milk produced on the farm.
-
-Green Meadow Farms also produces a variety of vegetables and meat.
-
-Green Meadow Farms is owned by {{user}}.
-
-Green Meadow Farms raises Vitbils for meat.
-
-Green Meadow Farms is staffed by Cowgirls and Sheepgirls.
-
-Green Meadow Farmhouse is on the Green Meadow Farms property.
-
-Vitbils are large, cow-like creatures.
-
-Vitbils' primary purpose is to be raised and slaughtered for their meat.
-
-Cowgirls are Beastfolk with cow features.
-
-Cowgirls need milking once a day.
-
-Cowgirls are tall with huge breasts.
-
-Cowgirls make great farm workers due to their natural affinity with animals.
-
-Sheepgirls are Beastfolk with sheep features.
-
-Sheepgirls need to be milked every few days.
-
-Sheepgirls are short with large breasts.
-
-Sheepgirls grow wool on their body that needs to be sheared monthly for hygiene reasons.
-
-Sheepgirls make great farm workers due to their magical affinity for growing crops.
-
-Green Meadow Farmhouse is large enough to house all working cowgirls and sheepgirls.
-
-Green Meadow Farmhouse has a large underground bathing area.
-
-{{user}}'s room is on the top floor of Green Meadow Farmhouse.
-
-The Feast of Daylan is a Harvest Festival held in the Darran Kingdom.
-
-The Feast of Daylan features competitions among farmers.
-
-Competitions at the Feast of Daylan include: Strongman competition, Biggest Vitbil, Hound races, and Biggest Vegetable.
-
-Wargs are large wolves.
-
-Wargs are bloodthirsty, vicious creatures.
-
-Wargs are often tamed by goblins who keep them as pets.
-
-Offices and Managers is a tabletop roleplaying game.
-
-In Offices and Managers, players are guided by a player called the "CEO".
-
-The CEO narrates events as players try to navigate a modern office political drama to survive corporate life.
-
-The Writers Guild is a guild that reviews prospective authors work for magical reproduction.
-
-The Writers Guild's standards are said to be very high.
-
-Mina Salvanora is a Sheepgirl Beastfolk.
-
-Mina works as Head Sheepgirl on Green Meadow Farm.
-
-Mina has short brown hair.
-
-Mina has blue eyes.
-
-Mina is best friends with Karia.
-
-Karia Minotaros is a Cowgirl Beastfolk.
-
-Karia works as head cowgirl on Green Meadow Farm.
-
-Karia has long brown hair.
-
-Karia has blue eyes.
-
-Karia is best friends with Mina.
-
-A Dhampir is a half-vampire.
-
-A Dhampir is born from the union of a vampire and a mortal.
-
-Dhampirs have unnaturally pale skin.
-
-Dhampirs have vampiric fangs they can use to feed off blood.
-
-*Dracul's Heresy* is a book.
-
-*Dracul's Heresy* is said to contain Dracula's heretical rituals.
-
-*Dracul's Heresy* contains instructions on how to deal with demons for more power.
-
-Copies of *Dracul's Heresy* are extremely rare.
-
-Copies of *Dracul's Heresy* are usually burned if found by the Inquisition.
-
-Military units of the Third Kingdom are led by cultivators.
-
-The more people in a military unit, the stronger the cultivator leading them.
-
-Third Kingdoms military units are strike forces.
-
-The Third Kingdom gives their cultivators free reign to fight however they please - so long as it results in victory for Emperor Zhao.
-
-The Darran Kingdom trains its military units into strong regimented forces.
-
-The Darran Kingdom's military units work well together.
-
-The Darran Kingdom's bread and butter tactic is the shield wall formation backed up by strong archers.
-
-The Darran Kingdom has been known to supplement its army with top-tier adventurers.
-
-The Darran Kingdom's tactics emulate Roman war tactics.
-
-Kitsune are a type of beastfolk with fox features.
-
-Kitsune have fox ears and tails.
-
-Kitsune have more tails the more power they wield.
-
-Current-day Kitsune have only a single tail.
-
-The more powerful Kitsune have three or four tails.
-
-Onmyoji are a hybrid of priest and mage.
-
-Onmyoji have a focus on exorcising malevolent spirits.
-
-Onmyoji have to complete a Suracta.
-
-A Suracta is a period of service to a temple.
-
-During a Suracta, Onmyoji learn magic and their duties.
-
-Shoko Nightwater (Or Lady Nightwater) is a six-tailed Kitsune Onmyojji.
-
-Shoko Nightwater trains in reclusion.
-
-Shoko Nightwater's location can only be found if she wants to be found.
-
-Shoko Nightwater's location is somewhere in Savalon.
-
-Moonshadow, Blade of the Night is a sentient, malevolent longsword.
-
-Moonshadow is made of blackened steel.
-
-Drow rumors say Moonshadow is lost somewhere in the Darklands.
-
-Felthorn, Blade of the Meadows is a sentient, malevolent longsword.
-
-Felthorn is made of blackened steel.
-
-Elven rumors say Felthorn is an evil blade that needs to be sealed away.
-
-Elven rumors say Felthorn is supposedly somewhere in Evergreen Forest.
-
-The Zegallan Empire is a warlike empire.
-
-The Zegallan Empire was founded after its citizens defeated their lizardfolk overlords.
-
-The leader of the Zegallan Empire is Warchief Wurgoth.
-
-The Zegallan Empire believes the weak should serve the strong.
-
-The Zegallan Empire has a slavery system in place.
-
-The Zegallan Empire's capital is Nuwerth City.
-
-The Zegallan Empire's primary deity is Prodyr.
-
-Nuwerth City is magnificent city built on Western Sebela.
-
-Nuwerth City has seven levels.
-
-Nuwerth City culminates in a tower at the very center of the city.
-
-Nuwerth City is the capital of the Zegallan Empire.
-
-Prodyr "The Immortal Flame" is the God of Fire and War.
-
-Religious depictions show Prodyr as a man wielding a flaming axe.
-
-Prodyr's followers worship him through battle.
-
-Prodyr's symbol is a flaming axe.
-
-Zegallan Empire troops fight with overwhelming numbers.
-
-Zegallan Empire's frontlines are made up of slave corps of drugged and frenzied warriors.
-
-Zegallan Empire's specialized units come in to mop up weaker forces.
-
-The Darran Kingdom and the Zegallan Empire are at war.
-
-The Zegallan Empire is winning several key footholds early on in the war from surprise attacks.
-
-The Zegallan Empire has four types of slaves: Indentured Slaves who became slaves to pay off debts, Special Slaves who sell themselves into slavery, Wartime Slaves, and Criminal Slaves.
-
-Slavery in Zegallan is seen as a noble undertaking where even the lowest dregs of society can redeem themselves.
-
-Everywhere else, slavery is considered an evil practice.
-
-Warchief Wurgoth Oxtusk is the leader of the Zegallan Empire.
-
-Warchief Wurgoth Oxtusk is a brute of an Orc.
-
-Warchief Wurgoth Oxtusk has a sadistic streak to match.
-
-The Zegallan Empires primary sport is gladiatorial combat.
-
-The Zegallan Empire's largest arena is known as 'Renfath".
-
-'Renfath" means "Bloody Ground" in the Lizardfolk tongue.
-
-The Demonborn Legion is a group of elite Zegallan warriors.
-
-The Demonborn Legion underwent a ritual to become Demonborn.
-
-A Slave Crest is a magical mark on a slaves body.
-
-A Slave Crest binds slaves to their 'Master'.
-
-Slaves who defy orders or try to harm their master will slowly be killed by the crest until they obey.
-
-Some Masters prefer to use collars instead of a Slave Crest mark.
-
-Keder Velfaust or "The Ebon Executioner" is a Lieutenant in the Zegallan Empire.
-
-Keder Velfaust is a member of the Demonborn Legion.
-
-Keder Velfaust is a demonborn man.
-
-Keder Velfaust wields a greataxe oathkeeper.
-
-Keder Velfaust has short blood red hair.
-
-Keder Velfaust has dark red eyes.
-
-Kanna Helfin "The Blood Saint" is a Captain in The Zegallan Empires armies.
-
-Kanna Helfin is a demonborn woman who worships Prodyr.
-
-Kanna Helfin has short red hair.
-
-Kanna Helfin has dark red eyes.
-
-Kanna Helfin is tall.
-
-Kanna Helfin wields a greataxe and blood magic.
-
-Aegis City's Alchemists Guild is its main supplier of potions and antidotes.
-
-Aegis City's Alchemists Guild frequently hires adventurers to get ingredients.
-
-Aegis City's Alchemists Guild is known to be very cutthroat in their business dealings.
-
-Sophie is a lizardfolk.
-
-Sophie runs the *Aegis Delights and Curios* shop in Aegis City's Market District.
-
-Sophie is a shrewd businesswoman.
-
-Sophie has light blue hair.
-
-Sophie has red eyes.
-
-Sophie has horns.
-
-Sophie has a blue lizard tail.
-
-Lamia's are a type of beastfolk that are a mixture of human and snake.
-
-A Lamia's upper half is that of a human woman.
-
-A Lamia's bottom half is that of a snake.
-
-Lamias do not have legs.
-
-Lamia's can only be female.
-
-Lamia's are known to capture men of other species to reproduce.
-
-Lamia's mate by coiling around their 'lover' for almost an entire day to ensure insemination.
-
-The Philosopher Stone or "Alchemists Gold" is a legendary alchemical item.
-
-The Philosopher Stone is said to be able to multiply the effectiveness of potions tenfold.
-
-The recipe for the Philosopher Stone is unknown.
-
-Texts indicate that the secret to making the Philosopher Stone lies in Gragow.
-
-Diosanea is a lamia woman.
-
-Diosanea lives outside of Habbot Village.
-
-Diosanea works as an alchemist.
-
-Diosanea has long green hair.
-
-Diosanea has green eyes.
-
-Diosanea is friends with Nalea.
-
-Konako Shynea is an adventurer in Aegis City.
-
-Konako has long brown hair in a ponytail.
-
-Konako has green eyes.
-
-Konako is known to be smug and overconfident.
-
-Rumors say Konako used to be a noblemans daughter.
-
-Grant Hearthsteel is a male human adventurer in Aegis City.
-
-Grant has short brown hair.
-
-Grant has emerald green eyes.
-
-Grant is known as a narcissistic bastard.
-
-Grant frequents the Aegis City Orphanage.
-
-Dullahan's or "Headless Horseman" are Death's agents.
-
-Dullahan's are said to guide souls to the afterlife.
-
-Some Dullahan can gorge on evil souls.
-
-Some Dullahan attack the living.
-
-Morgan is a young, tall woman.
-
-Morgan has silver hair.
-
-Morgan has black eyes.
-
-Morgan seems to be an ordinary human.
-
-Morgan spends all of her time reading books.
-
-Malach is a Celestial.
-
-Malach claims to be the divine herald of Prodyr.
-
-Malach has long silver hair.
-
-Malach has white wings.
-
-Malach has red eyes.
-
-Malach is known to destroy Darran Kingdom towns.
-
-Malach leaves a single survivor after destroying Darran Kingdom towns.
-
-Celestials are divine creatures in the service of a deity.
-
-Celestials' forms vary depending on who they serve.
-
-Alks Forest is a forest located in Northern Sebela far from civilization.
-
-Alks Forest is rumored to be cursed.
-
-Alks Forest is home to wargs and Kogamuks.
-
-Kogamuks are cunning Demons with dark red skin.
-
-Kogamuks stalk and hunt prey.
-
-Kogamuks' favored prey are humans and humanoids.
-
-Kogamuks are said to be able to blend seamlessly into any environment.
-
-Kogamuks ambush prey.
-
-Ashliel is a young woman.
-
-Ashliel has long black hair.
-
-Ashliel has purple eyes.
-
-Not much is known about Ashliel.
-
-Tales mention a beautiful woman warding travelers away from Alks Forest.
-
-The Kelnan Elf Tribe was destroyed by the Zegallan Empire.
-
-The survivors of the Kelnan Elf Tribe were sold into slavery by the Zegallan Empire.
-
-Shelara Kelnan is an Elf hunter of the Kelnan tribe.
-
-Shelara has heterochromia with a ruby red eye and a sapphire blue eye.
-
-Shelara has long red hair with a white strip.
-
-Shelara was captured by the Zegallan Empire.
-
-*1001 Ways to Mate* is a smut novel by Bert Jalanian.
-
-*1001 Ways to Mate* is famous for its erotic illustrations and stories.
-
-No one admits to owning a copy of *1001 Ways to Mate*.
-
-Aegis Delights and Curios is a two story shop in Aegis City's Market District.
-
-Aegis Delights and Curios's owner is Sophie.
-
-The first floor of Aegis Delights and Curios is the main shop with storage in the back.
-
-The second floor of Aegis Delights and Curios is Sophie's home.
-
-Sparrow is a young woman.
-
-Sparrow has long purple hair tied into a messy ponytail.
-
-Sparrow has cold violet eyes.
-
-Sparrow dresses as if she's from Savalon.
-
-Sparrow is known to be monotone/emotionless in conversations.
-
-Zariah Farstone is a young woman.
-
-Zariah lives in Kelger Falls.
-
-Zariah has dark brown eyes.
-
-Zariah has long brown hair.
-
-Zariah was apprenticed to a wizard who had been fired from the academy in Aegis City.
-
-Unira is a young woman.
-
-Unira has long silver hair.
-
-Unira has red eyes.
-
-Unira is an adventurer in Aegis City.
-
-Unira has been presumed dead after her party reported her dead.
-
-Erevan is an Inquisitor working for the Holy Church.
-
-Erevan has short black hair.
-
-Erevan has blue eyes.
-
-Erevan is constantly wearing a metal facemask that obscures his face.
+Erevan is an Inquisitor working for the Holy Church. Erevan has short black hair and blue eyes. Erevan is constantly wearing a metal facemask that obscures his face.
